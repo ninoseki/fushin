@@ -17,7 +17,7 @@ module Fushin
         when /kikey\.net/
           out << Posts::Kikey.new(link)
         when /seesaa\.net/
-          otu << Posts::Seesaa.new(link)
+          out << Posts::Seesaa.new(link)
         when /shinobi\.jp/
           out << Posts::Shinobi.new(link)
         when /teacup\.com/
