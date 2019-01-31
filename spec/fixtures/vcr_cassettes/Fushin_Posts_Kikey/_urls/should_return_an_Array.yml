@@ -1,0 +1,236 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.kikey.net/snapshot/entry/re-i-need-specific-ranks-to-go-5/
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      Connection:
+      - close
+      Host:
+      - www.kikey.net
+      User-Agent:
+      - http.rb/4.0.3
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx
+      Date:
+      - Wed, 30 Jan 2019 11:37:34 GMT
+      Content-Type:
+      - text/html; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - close
+      X-Powered-By:
+      - PHP/5.4.45
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"ja\" xml:lang=\"ja\">\n<head>\n<meta
+        http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta
+        http-equiv=\"Content-Style-Type\" content=\"text/css\" />\n<meta http-equiv=\"Content-Script-Type\"
+        content=\"text/javascript\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
+        title=\"RSS 2.0\" href=\"http://www.kikey.net/snapshot/rss.xml\" />\n<meta
+        name=\"description\" content=\"re: I need specific ranks to go down fast |
+        kikey GUEST SNAPSHOT | 福岡、天神西通りにある人気ヘアサロンkikey(キキ)です。オリジナルカット｢骨格補正カット｣で福岡の女性を綺麗に美しく致します。洗練されたカラーデザイン、厳選された薬剤を使ったパーマ、卓越した技術でアナタの魅力を引き出します。福岡で美容室を探されてる方におすすめです。\"
+        />\n<meta name=\"keywords\" content=\"re: I need specific ranks to go down
+        fast,kikey GUEST SNAPSHOT,天神,大名,美容室,ヘアサロン,ヘアスタイル,おすすめ,キキ,kikey,カット,小顔カット,骨格補正,カラー,ジュエルカラー,パーマ,エアーウェーブ,デジタルパーマ,トリートメント,オーガニック,ヴィラロドラ\"
+        />\n<title>re: I need specific ranks to go down fast | kikey GUEST SNAPSHOT
+        | 福岡・天神大名・小顔カットで有名な美容室(ヘアサロン)kikey（キキ）公式ホームページ</title>\n<link href=\"http://www.kikey.net/cmn/css/reset.css\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"all\" />\n<link href=\"http://www.kikey.net/cmn/css/cmn.css\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"all\" />\n<link href=\"http://www.kikey.net/cmn/css/designtpl_base.css\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"all\" />\n<link href=\"http://www.kikey.net/cmn/css/designtpl_color.css\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"all\" />\n<link href=\"http://www.kikey.net/mt-static/jquery/lightbox/css/jquery.lightbox.css\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"all\" />\n<link href=\"http://www.kikey.net/cmn/css/print.css\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"print\" />\n<link href=\"http://www.kikey.net/cmn/images/icon.ico\"
+        rel=\"shortcut icon\" type=\"image/x-icon\" />\n<script type=\"text/javascript\"
+        src=\"http://www.kikey.net/mt-static/jquery/jquery-1.8.3.min.js\"></script>\n<script>\n<!--\njQuery.noConflict();\n//-->\n</script>\n<script
+        type=\"text/javascript\" src=\"http://www.kikey.net/mt-static/jquery/lightbox/js/jquery.lightbox.js\"
+        charset=\"utf-8\"></script>\n<script type=\"text/javascript\">\njQuery(document).ready(function($){\n
+        \   $('a[rel*=lightbox]').lightBox({\n        imageLoading: 'http://www.kikey.net/mt-static/jquery/lightbox/images/lightbox-ico-loading.gif',\n
+        \       imageBtnClose: 'http://www.kikey.net/mt-static/jquery/lightbox/images/lightbox-btn-close.gif',\n
+        \       imageBtnPrev: 'http://www.kikey.net/mt-static/jquery/lightbox/images/lightbox-btn-prev.gif',\n
+        \       imageBtnNext: 'http://www.kikey.net/mt-static/jquery/lightbox/images/lightbox-btn-next.gif',\n
+        \       imageBlank: 'http://www.kikey.net/mt-static/jquery/lightbox/images/lightbox-blank.gif'\n
+        \       });\n});\n</script>\n<script type=\"text/javascript\" src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>\n<script
+        type=\"text/javascript\">\n$(function(){\n    setInterval(function(){\n        $('.blink').fadeOut(1200,
+        function(){$(this).fadeIn(200)});\n    }, 1400);\n});\n</script>\n<script
+        type=\"text/javascript\" src=\"http://www.kikey.net/cmn/js/smoothscroll.js\"
+        charset=\"utf-8\"></script>\n<script type=\"text/javascript\" src=\"http://www.kikey.net/cmn/js/tab_switch.js\"
+        charset=\"utf-8\"></script>\n<script type=\"text/javascript\" src=\"http://www.tls-cms006.net/cmn/js/jquery.socialbutton.js\"
+        charset=\"utf-8\"></script>\n<!--[if lt IE 7]>\n<script type=\"text/javascript\"
+        src=\"http://www.kikey.net/cmn/js/unitpngfix.js\" charset=\"utf-8\"></script>\n<![endif]-->\n<script
+        type=\"text/javascript\" src=\"http://www.kikey.net/cmn/js/smart_link_from_pc.js\"
+        charset=\"utf-8\"></script>\n </head>\n<body id=\"anchorTop\">\n<div id=\"container\">\n
+        \ <div id=\"header\">\n  <h1>福岡市中央区天神大名、美容室「kikey」キキ</h1>\n  <div id=\"headerTitle\">\n
+        \   <div id=\"headerAreaSub\">\n      <p id=\"headerAddress\"></p>\n      <div
+        id=\"headerWidget\">\n      </div>\n    </div>\n    <div id=\"headerAreaLogo\">\n
+        \     <a href=\"http://www.kikey.net/\"><img src=\"http://www.kikey.net/upload_images/logo.png\"\n
+        \      alt=\"\"></a>\n    </div>\n  </div>\n</div>\n  <div id=\"mainBg\"><div
+        id=\"main\">\n            <ul id=\"mainMenu\"><li><a href=\"/netbook/\"><img
+        src=\"http://www.kikey.net/upload_images/menu0001.gif\" class=\"btnEffect\"
+        alt=\"Menu\" width=\"93\" height=\"60\" /></a></li><li><a href=\"/haircatalog/\"><img
+        src=\"http://www.kikey.net/upload_images/menu0002.gif\" class=\"btnEffect\"
+        alt=\"Hair catalog\" width=\"181\" height=\"60\" /></a></li><li><a href=\"/staff/\"><img
+        src=\"http://www.kikey.net/upload_images/menu0003.gif\" class=\"btnEffect\"
+        alt=\"Staff\" width=\"119\" height=\"60\" /></a></li><li><a href=\"/blog/\"><img
+        src=\"http://www.kikey.net/upload_images/menu0004.gif\" class=\"btnEffect\"
+        alt=\"Blog\" width=\"117\" height=\"60\" /></a></li><li><a href=\"/tenjin/\"><img
+        src=\"http://www.kikey.net/upload_images/menu0006.gif\" class=\"btnEffect\"
+        alt=\"天神店\" width=\"161\" height=\"60\" /></a></li><li><a href=\"/kyudai/\"><img
+        src=\"http://www.kikey.net/upload_images/menu0007.gif\" class=\"btnEffect\"
+        alt=\"九大店\" width=\"151\" height=\"60\" /></a></li></ul>\n    <div id=\"secondArea\">\n
+        \     <div id=\"secondAreaBlogParts\">\n<div id=\"brogPartsEntry\">\n  <h3
+        class=\"widget-header\">最近のエントリー</h3>\n  <ul class=\"widget-list\">\n    <li
+        class=\"widget-list-item\"><a href=\"http://www.kikey.net/snapshot/entry/re-i-need-specific-ranks-to-go-5/\">re:
+        I need specific ranks to go down fast</a></li>\n    <li class=\"widget-list-item\"><a
+        href=\"http://www.kikey.net/snapshot/entry/re-im-interested-in-your-offer-2/\">re:
+        I`m interested in your offer of Social Signals</a></li>\n    <li class=\"widget-list-item\"><a
+        href=\"http://www.kikey.net/snapshot/entry/re-please-send-me-the-facebook/\">re:
+        please send me the Facebook traffic offer</a></li>\n    <li class=\"widget-list-item\"><a
+        href=\"http://www.kikey.net/snapshot/entry/re-get-back-your-ranks-kikeyne-3/\">re:
+        Get back your ranks kikey.net</a></li>\n    <li class=\"widget-list-item\"><a
+        href=\"http://www.kikey.net/snapshot/entry/utf-8qhi20perv20i20recorded20u/\">=?UTF-8?Q?Hi=20perv.=20I=20recorded=20?==?UTF-8?Q?you=20mas?=
+        =?UTF-8?Q?turbating!=20I=20have=20cap?==?UTF-8?Q?tured=20'S?= =?UTF-8?Q?napshot=20Post.mp4'!?=</a></li>\n
+        \ </ul>\n</div>\n<div id=\"brogPartsCategory\">\n  <h3>カテゴリ</h3>\n</div>\n<div
+        id=\"brogPartsMonthlyArchive\">\n  <h3>月別 <a href=\"http://www.kikey.net/snapshot/archives.php\">アーカイブ</a></h3>\n
+        \ <ul>\n    <li><a href=\"http://www.kikey.net/snapshot/2019/01/\">2019年1月
+        (25)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/12/\">2018年12月
+        (11)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/11/\">2018年11月
+        (17)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/10/\">2018年10月
+        (8)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/09/\">2018年9月
+        (16)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/08/\">2018年8月
+        (10)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/07/\">2018年7月
+        (8)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/06/\">2018年6月
+        (9)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/03/\">2018年3月
+        (3)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/02/\">2018年2月
+        (4)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2018/01/\">2018年1月
+        (12)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2017/12/\">2017年12月
+        (27)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2017/11/\">2017年11月
+        (11)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2017/10/\">2017年10月
+        (22)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2017/09/\">2017年9月
+        (25)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2017/08/\">2017年8月
+        (13)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2017/07/\">2017年7月
+        (10)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2017/06/\">2017年6月
+        (19)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2017/05/\">2017年5月
+        (8)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2017/04/\">2017年4月
+        (5)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2016/11/\">2016年11月
+        (1)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2015/03/\">2015年3月
+        (2)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2015/02/\">2015年2月
+        (2)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2015/01/\">2015年1月
+        (3)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2014/12/\">2014年12月
+        (3)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2014/11/\">2014年11月
+        (16)</a></li>\n    <li><a href=\"http://www.kikey.net/snapshot/2014/10/\">2014年10月
+        (28)</a></li>\n  </ul>\n</div>\n</div>\n       <div id=\"freeHtml2\">\n  <a
+        href=\"https://bpl.salonpos-net.com/e-reserve/370C101/\" target=\"_blank\"><img
+        src=\"/cmn/images/bnr_web_reservation.png\" alt=\"WEB予約 24時間ネット予約受付中\" class=\"btnEffect
+        mb20\" /></a>\n  <div id=\"side_tech\">\n    <h3>\n        <img alt=\"tenjin_sidettl.gif\"
+        height=\"64\" src=\"http://www.kikey.net/upload_images/tenjin_sidettl.gif\"
+        width=\"234\" /></h3>\n    <ul>\n        <li>\n            <a href=\"https://beauty.hotpepper.jp/slnH000230399/coupon/\"><img
+        alt=\"Menu\" class=\"btnEffect\" src=\"/upload_images/sidemenu02.gif\" style=\"width:
+        163px; height: 30px;\" /></a></li>\n        <li>\n            <a href=\"/tenjin/\"><img
+        alt=\"Shop&amp;Info\" class=\"btnEffect\" src=\"/upload_images/sidemenu01.gif\"
+        style=\"width: 163px; height: 29px;\" /></a></li>\n        <li>\n            <a
+        href=\"/blog/\"><img alt=\"Blog\" class=\"btnEffect\" src=\"/upload_images/sidemenu04.gif\"
+        style=\"width: 163px; height: 30px;\" /></a></li>\n        <li>\n            <a
+        href=\"/news/\"><img alt=\"News&amp;Topics\" class=\"btnEffect\" src=\"/upload_images/sidemenu03.gif\"
+        style=\"width: 163px; height: 29px;\" /></a></li>\n    </ul>\n</div>\n  <div
+        id=\"side_tech\">\n    <h3><img alt=\"kyudai_sidettl.gif\" src=\"http://www.kikey.net/upload_images/kyudai_sidettl.gif\"
+        width=\"234\" height=\"63\" class=\"mt-image-none\" style=\"\" /></h3>\n    <ul>\n
+        \       <li><a href=\"https://beauty.hotpepper.jp/slnH000321385/coupon/\"><img
+        alt=\"Menu\" src=\"/upload_images/sidemenu02.gif\"  class=\"btnEffect\" /></a></li>\n
+        \       <li><a href=\"/kyudai/\"><img alt=\"Shop&Info\" src=\"/upload_images/sidemenu01.gif\"
+        \ class=\"btnEffect\" /></a></li>\n        <li><a href=\"/blog/\"><img alt=\"Blog\"
+        src=\"/upload_images/sidemenu04.gif\"  class=\"btnEffect\" /></a></li>\n        <li><a
+        href=\"/news/\"><img alt=\"News&Topics\" src=\"/upload_images/sidemenu03.gif\"
+        \ class=\"btnEffect\" /></a></li>\n    </ul>\n</div>\n</div>\n<div id=\"banner\">\n
+        \ <div class=\"title\"></div>\n    <a href=\"/news/\"><img src=\"http://www.kikey.net/upload_images/side_bnr_newstopics.jpg\"
+        alt=\"今月のオススメ\" class=\"btnEffect\" /></a><br />\n  </div>\n<div id=\"freeHtml1\">\n
+        \ <div id=\"side_tech\">\n    <h3>\n        <img alt=\"Technique\" height=\"25\"
+        src=\"/upload_images/second_area_title_technique.gif\" width=\"104\" /></h3>\n
+        \   <ul>\n        <li>\n            <a href=\"/cut/\"><img alt=\"Cut\" class=\"btnEffect\"
+        src=\"/upload_images/side_techmenu_cut2.gif\" style=\"width: 105px; height:
+        28px;\" /></a></li>\n        <li>\n            <a href=\"/perm/\"><img alt=\"Perm\"
+        class=\"btnEffect\" src=\"/upload_images/side_techmenu_perm2.gif\" style=\"width:
+        105px; height: 27px;\" /></a></li>\n        <li>\n            <a href=\"/color/\"><img
+        alt=\"Color\" class=\"btnEffect\" src=\"/upload_images/side_techmenu_color2.gif\"
+        style=\"width: 105px; height: 28px;\" /></a></li>\n        <li>\n            <a
+        href=\"/treatment/\"><img alt=\"Treatment\" class=\"btnEffect\" src=\"/upload_images/side_techmenu_treatment2.gif\"
+        /></a></li>\n    </ul>\n</div>\n</div>\n<ul id=\"sideMenu\"><li><a href=\"/movie/\"><img
+        src=\"http://www.kikey.net/upload_images/side_ban_movie.jpg\" class=\"btnEffect\"
+        alt=\"Movie gallery\" /><br /></a></li><li><a href=\"/blog/\"><img src=\"http://www.kikey.net/upload_images/side_ban_blog.jpg\"
+        class=\"btnEffect\" alt=\"Blog\" /><br /></a></li></ul>\n       </div>\n    <div
+        id=\"thirdArea\">\n          </div>\n    <div id=\"contents\">\n      <div
+        id=\"categoryBlog\">\n        <p class=\"pankuzu\"><a href=\"http://www.kikey.net/\">HOME</a>
+        &gt; <a href=\"http://www.kikey.net/snapshot/\">kikey GUEST SNAPSHOT</a> &gt;
+        <strong>re: I need specific ranks to go down fast</strong></p>\n        <h2>kikey
+        GUEST SNAPSHOT</h2>\n        \n        <div id=\"anchorSocial\"></div>\n        <div
+        id=\"social\">\n            <div id=\"googlePlus2900\" class=\"socialBtn\"></div>\n
+        \           <script type=\"text/javascript\">\n            jQuery(document).ready(function($){\n
+        \               $('#googlePlus2900').socialbutton('google_plusone', {\n                    lang:
+        'ja',\n                    size: 'medium'\n                });\n            });\n
+        \           </script>\n        \n            <div id=\"facebook_like2900\"
+        class=\"socialBtn\"></div>\n            <script type=\"text/javascript\">\n
+        \           jQuery(document).ready(function($){\n                $('#facebook_like2900').socialbutton('facebook_like',
+        {\n                    button: 'button_count',\n                    url: 'http://www.kikey.net/snapshot/entry/re-i-need-specific-ranks-to-go-5/'\n
+        \               }).width(120);\n            });\n            </script>\n            <div
+        id=\"twitter2900\" class=\"socialBtn\"></div>\n            <script type=\"text/javascript\">\n
+        \           jQuery(document).ready(function($){\n                $('#twitter2900').socialbutton('twitter',
+        {\n                    button: 'horizontal',\n                    url: 'http://www.kikey.net/snapshot/entry/re-i-need-specific-ranks-to-go-5/',\n
+        \                   text: 're: I need specific ranks to go down fast－kikey
+        GUEST SNAPSHOT',\n                    lang: 'ja',\n                    related:
+        'twitter'\n                }).width(110);\n            });\n            </script>\n
+        \           <div class=\"clear\"></div>\n        </div>\n        <p class=\"nextPrevious\"><a
+        href=\"http://www.kikey.net/snapshot/entry/re-im-interested-in-your-offer-2/\">&lt;&nbsp;re:
+        I`m interested in your offer of Social Signals</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a
+        href=\"http://www.kikey.net/snapshot/\">一覧へ戻る</a></p>\n        <h3 id=\"entry-2900\">re:
+        I need specific ranks to go down fast</h3>\n        <div class=\"entryBody\">\n<p>hi<br
+        />snapshot_post141001<br /><br />here it is, make ranks drop instantly<br
+        />http://www.mgdots.co/detail.php?id=66<br /><br />Checkout the pricelist
+        attached<br /><br /><br />Regards<br />Dusti Baskett \\xA0<br /><br /><br
+        /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />Unsubscribe
+        option is available on the footer of our website<br /><br /></p>\n        </div>\n
+        \       <br class=\"clear\" />\n        <div class=\"hr01\"></div>\n        <p
+        class=\"entryMeta\">\n  (<a class=\"fn url\" href=\"http://www.kikey.net\">kikey</a>)
+        \n  <abbr title=\"2019-01-30T16:00:23+09:00\">2019年1月30日 16:00</abbr>\n  \n
+        \ \n  \n</p>\n        <p class=\"nextPrevious\"><a href=\"http://www.kikey.net/snapshot/entry/re-im-interested-in-your-offer-2/\">&lt;&nbsp;re:
+        I`m interested in your offer of Social Signals</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a
+        href=\"http://www.kikey.net/snapshot/\">一覧へ戻る</a></p>\n        <p class=\"anchorTop\"><a
+        href=\"#anchorTop\">このページのトップへ</a></p>\n      </div>\n    </div>\n  </div>\n
+        \ <br class=\"clear\" />\n  </div>\n  <div id=\"footer\">\n    <p id=\"footerMenu\">|&nbsp;<a
+        href=\"/\">HOME</a>&nbsp;|&nbsp;<a href=\"/concept/\">Concept</a>&nbsp;|&nbsp;<a
+        href=\"/kyudai_menu/\">九大店メニュー</a>&nbsp;|&nbsp;<a href=\"/menu/\">天神店メニュー</a>&nbsp;|&nbsp;<a
+        href=\"/cut/\">Cut</a>&nbsp;|&nbsp;<a href=\"/perm/\">Perm</a>&nbsp;|&nbsp;<a
+        href=\"/color/\">Color</a>&nbsp;|&nbsp;<a href=\"/treatment/\">Treatment</a>&nbsp;|&nbsp;<a
+        href=\"/haircatalog/\">Hair catalog</a>&nbsp;|&nbsp;<a href=\"/staff/\">Staff</a>&nbsp;|&nbsp;<a
+        href=\"/magic/\">小顔カットマジック</a>&nbsp;|&nbsp;<a href=\"/before_after/\">Before
+        After <br /></a>&nbsp;|&nbsp;<a href=\"/goods/\">店販販売</a>&nbsp;|&nbsp;<a href=\"/knowledge/\">ヘアケア知識</a>&nbsp;|&nbsp;<a
+        href=\"/knowledge/\">ヘアケア知識</a>&nbsp;|&nbsp;<a href=\"/access/\">Access</a>&nbsp;|&nbsp;<a
+        href=\"/word_of_mouth/\">口コミ</a>&nbsp;|&nbsp;<a href=\"/pickup/\">Pick up</a>&nbsp;|&nbsp;<a
+        href=\"/recommend/\">Recommend</a>&nbsp;|&nbsp;<a href=\"/item/\">Item</a>&nbsp;|&nbsp;<a
+        href=\"/snapshot/\">kikey GUEST SNAPSHOT</a>&nbsp;|&nbsp;<a href=\"/movie/\">Movie
+        gallery <br /></a>&nbsp;|&nbsp;<a href=\"/qa/\">Q&A</a>&nbsp;|&nbsp;<a href=\"http://cs.appnt.me/coupon/782\"
+        target=\"_blank\">Coupon</a>&nbsp;|&nbsp;<a href=\"/recruit/\">Recruit</a>&nbsp;|&nbsp;<a
+        href=\"/blog/\">Blog</a>&nbsp;|&nbsp;<a href=\"/news/\">News & Topics</a>&nbsp;|&nbsp;<a
+        href=\"/privacy_policy/\">Privacy policy</a>&nbsp;|&nbsp;<a href=\"/sitemap/\">Site
+        map</a>&nbsp;|</p>\n     <div id=\"footerCopyrightArea\">\n<div id=\"footerFree\"><img
+        id=\"footer_logo\" src=\"/cmn/images/footer_logo.gif\" alt=\"\" />\r\n<div
+        id=\"footer_info\">\r\n    <div id=\"footer_img\"><img src=\"/cmn/images/footer_tel.gif\"
+        alt=\"092-791-5764\" /></div>\r\n    <p>【住所】〒810-0041 福岡県福岡市中央区大名1-1-46 彩文ビル6F<br
+        />\r\n    【営業時間】平日 12:00～21:00 / 土日祝 11:00～20:00【定休日】毎週月曜、第二・第三火曜</p>\r\n</div>\r\n</div>\n<p
+        id=\"copyright\">Copyright (C) kikey. All rights reserved.</p>\n</div>\n  </div>\n</div>\n<script>\r\n
+        \ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n
+        \ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n
+        \ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n
+        \ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n
+        \ ga('create', 'UA-51354582-9', 'auto');\r\n  ga('send', 'pageview');\r\n</script>\n</body>\n</html>\n"
+    http_version: 
+  recorded_at: Wed, 30 Jan 2019 11:37:34 GMT
+recorded_with: VCR 4.0.0

@@ -1,0 +1,186 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: https://www.inoreader.com/stream/user/1006141524/tag/%E4%B8%8D%E5%AF%A9%E3%83%A1%E3%83%BC%E3%83%AB
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      Connection:
+      - close
+      Host:
+      - www.inoreader.com
+      User-Agent:
+      - http.rb/4.0.3
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - nginx/1.14.1
+      Date:
+      - Wed, 30 Jan 2019 08:19:14 GMT
+      Content-Type:
+      - text/xml; charset=UTF-8
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - close
+      X-Powered-By:
+      - PHP/5.6.39
+      Last-Modified:
+      - Wed, 30 Jan 2019 07:52:19 +0000
+      Etag:
+      - '1548834739525269'
+      Vary:
+      - Accept-Encoding,User-Agent
+      Cache-Control:
+      - max-age=0
+      Expires:
+      - Wed, 30 Jan 2019 08:19:14 GMT
+    body:
+      encoding: UTF-8
+      string: "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<rss version=\"2.0\" xmlns:atom=\"http://www.w3.org/2005/Atom\"
+        xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n<channel>\n<title>不審メール via
+        ばらまきメールウォッチャー on Inoreader</title>\n<link>https://www.inoreader.com/stream/user/1006141524/tag/%E4%B8%8D%E5%AF%A9%E3%83%A1%E3%83%BC%E3%83%AB/view/html</link>\n<description><![CDATA[]]></description>\n<atom:link
+        href=\"https://www.inoreader.com/stream/user/1006141524/tag/%E4%B8%8D%E5%AF%A9%E3%83%A1%E3%83%BC%E3%83%AB\"
+        rel=\"self\" type=\"application/rss+xml\"></atom:link>\n<generator>Inoreader
+        (https://www.inoreader.com)</generator>\n<pubDate>Wed, 30 Jan 2019 08:19:14
+        +0000</pubDate>\n<lastBuildDate>Wed, 30 Jan 2019 08:19:14 +0000</lastBuildDate>\n<language>en-US</language>\n<item>\n<title>will
+        we schedule an appointment for tomorrow?</title>\n<link>https://sea.ap.teacup.com/bsai/819.html</link>\n<description><![CDATA[Looking
+        for a beautiful girl to fuck?  \nI'm looking for a man! If you like me and
+        you want me, then go to my site - my contacts are there \n \nhttp://goodsnews.su/
+        \ \n[画像]]]></description>\n<pubDate>Wed, 30 Jan 2019 07:52:20 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79dd40baa5</guid>\n</item>\n<item>\n<title>will
+        we schedule an appointment for tomorrow?</title>\n<link>https://sea.ap.teacup.com/bsai/821.html</link>\n<description><![CDATA[Looking
+        for a beautiful girl to fuck?  \nI'm looking for a man! If you like me and
+        you want me, then go to my site - my contacts are there \n \nhttp://goodsnews.su/
+        \ \n[画像]]]></description>\n<pubDate>Wed, 30 Jan 2019 07:52:20 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79dd40baa2</guid>\n</item>\n<item>\n<title>will
+        we schedule an appointment for tomorrow?</title>\n<link>https://sea.ap.teacup.com/bsai/820.html</link>\n<description><![CDATA[Looking
+        for a beautiful girl to fuck?  \nI'm looking for a man! If you like me and
+        you want me, then go to my site - my contacts are there \n \nhttp://goodsnews.su/
+        \ \n[画像]]]></description>\n<pubDate>Wed, 30 Jan 2019 07:52:20 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79dd40ba9c</guid>\n</item>\n<item>\n<title>will
+        we schedule an appointment for tomorrow?</title>\n<link>https://sea.ap.teacup.com/bsai/818.html</link>\n<description><![CDATA[Looking
+        for a beautiful girl to fuck?  \nI'm looking for a man! If you like me and
+        you want me, then go to my site - my contacts are there \n \nhttp://goodsnews.su/
+        \ \n[画像]]]></description>\n<pubDate>Wed, 30 Jan 2019 07:52:20 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79dd40ba98</guid>\n</item>\n<item>\n<title>will
+        we schedule an appointment for tomorrow?</title>\n<link>https://sea.ap.teacup.com/bsai/817.html</link>\n<description><![CDATA[Looking
+        for a beautiful girl to fuck?  \nI'm looking for a man! If you like me and
+        you want me, then go to my site - my contacts are there \n \nhttp://goodsnews.su/
+        \ \n[画像]]]></description>\n<pubDate>Wed, 30 Jan 2019 07:52:20 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79dd40ba91</guid>\n</item>\n<item>\n<title>Your
+        account has been hacked! You need to unlock.</title>\n<link>https://sea.ap.teacup.com/bsai/816.html</link>\n<description><![CDATA[Hello!
+        \n \nI have very bad news for you. \n12/10/2018 - on this day I hacked your
+        OS and got full access to your account post-vncr89@tcup.net \n \nSo, you can
+        change the password, yes... But my malware intercepts it every time. \n \nHow
+        I made it: \nIn the software of the router, through which you went online,
+        was a vulnerability. \nI just hacked this router and placed my malicious code
+        on it. \nWhen you went online, my trojan was installed on the OS of your device.
+        \n \nAfter that, I made a full dump of your disk ...]]></description>\n<pubDate>Tue,
+        29 Jan 2019 15:53:46 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79dec37540</guid>\n</item>\n<item>\n<title>アカウント情報検証を完成してください。</title>\n<link>https://sea.ap.teacup.com/kbdt/1077.html</link>\n<description><![CDATA[body#message
+        { \n    font: 300 14px/18px 'Lucida Grande', Lucida Sans, Lucida Sans Unicode,
+        sans-serif, Arial, Helvetica, Verdana, sans-serif !important; \n    color:
+        #333 !important; \n    background-color: #ffffff !important; \n    margin:0
+        !important; \n    padding:0 !important; \n    width:100% /* !important ; \n
+        \   /* was 685px */; \n} \n \n/* \nsame width as body, because Rover adds
+        this div \n*/ \nbody/*, .main*/ { \n} \n \nmain { \n    width: 685px; \n}
+        \n \n#apple-logo-left-margin { \n    width: 538px !impor...]]></description>\n<pubDate>Tue,
+        29 Jan 2019 10:25:01 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/kbdt/\">山田式骨盤ダイエット法</source>\n<guid isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de857cda</guid>\n</item>\n<item>\n<title>アカウント情報検証を完成してください。</title>\n<link>https://sea.ap.teacup.com/bsai/813.html</link>\n<description><![CDATA[body#message
+        { \n    font: 300 14px/18px 'Lucida Grande', Lucida Sans, Lucida Sans Unicode,
+        sans-serif, Arial, Helvetica, Verdana, sans-serif !important; \n    color:
+        #333 !important; \n    background-color: #ffffff !important; \n    margin:0
+        !important; \n    padding:0 !important; \n    width:100% /* !important ; \n
+        \   /* was 685px */; \n} \n \n/* \nsame width as body, because Rover adds
+        this div \n*/ \nbody/*, .main*/ { \n} \n \nmain { \n    width: 685px; \n}
+        \n \n#apple-logo-left-margin { \n    width: 538px !impor...]]></description>\n<pubDate>Tue,
+        29 Jan 2019 10:24:57 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de857fab</guid>\n</item>\n<item>\n<title>アカウント情報検証を完成してください。</title>\n<link>https://sea.ap.teacup.com/bsai/815.html</link>\n<description><![CDATA[body#message
+        { \n    font: 300 14px/18px 'Lucida Grande', Lucida Sans, Lucida Sans Unicode,
+        sans-serif, Arial, Helvetica, Verdana, sans-serif !important; \n    color:
+        #333 !important; \n    background-color: #ffffff !important; \n    margin:0
+        !important; \n    padding:0 !important; \n    width:100% /* !important ; \n
+        \   /* was 685px */; \n} \n \n/* \nsame width as body, because Rover adds
+        this div \n*/ \nbody/*, .main*/ { \n} \n \nmain { \n    width: 685px; \n}
+        \n \n#apple-logo-left-margin { \n    width: 538px !impor...]]></description>\n<pubDate>Tue,
+        29 Jan 2019 10:24:57 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de857fa6</guid>\n</item>\n<item>\n<title>アカウント情報検証を完成してください。</title>\n<link>https://sea.ap.teacup.com/bsai/814.html</link>\n<description><![CDATA[body#message
+        { \n    font: 300 14px/18px 'Lucida Grande', Lucida Sans, Lucida Sans Unicode,
+        sans-serif, Arial, Helvetica, Verdana, sans-serif !important; \n    color:
+        #333 !important; \n    background-color: #ffffff !important; \n    margin:0
+        !important; \n    padding:0 !important; \n    width:100% /* !important ; \n
+        \   /* was 685px */; \n} \n \n/* \nsame width as body, because Rover adds
+        this div \n*/ \nbody/*, .main*/ { \n} \n \nmain { \n    width: 685px; \n}
+        \n \n#apple-logo-left-margin { \n    width: 538px !impor...]]></description>\n<pubDate>Tue,
+        29 Jan 2019 10:24:57 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de857fa3</guid>\n</item>\n<item>\n<title>アカウント情報検証を完成してください。</title>\n<link>https://sea.ap.teacup.com/bsai/812.html</link>\n<description><![CDATA[body#message
+        { \n    font: 300 14px/18px 'Lucida Grande', Lucida Sans, Lucida Sans Unicode,
+        sans-serif, Arial, Helvetica, Verdana, sans-serif !important; \n    color:
+        #333 !important; \n    background-color: #ffffff !important; \n    margin:0
+        !important; \n    padding:0 !important; \n    width:100% /* !important ; \n
+        \   /* was 685px */; \n} \n \n/* \nsame width as body, because Rover adds
+        this div \n*/ \nbody/*, .main*/ { \n} \n \nmain { \n    width: 685px; \n}
+        \n \n#apple-logo-left-margin { \n    width: 538px !impor...]]></description>\n<pubDate>Tue,
+        29 Jan 2019 10:24:57 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de857f9f</guid>\n</item>\n<item>\n<title>アカウント情報検証を完成してください。</title>\n<link>https://sea.ap.teacup.com/bsai/811.html</link>\n<description><![CDATA[body#message
+        { \n    font: 300 14px/18px 'Lucida Grande', Lucida Sans, Lucida Sans Unicode,
+        sans-serif, Arial, Helvetica, Verdana, sans-serif !important; \n    color:
+        #333 !important; \n    background-color: #ffffff !important; \n    margin:0
+        !important; \n    padding:0 !important; \n    width:100% /* !important ; \n
+        \   /* was 685px */; \n} \n \n/* \nsame width as body, because Rover adds
+        this div \n*/ \nbody/*, .main*/ { \n} \n \nmain { \n    width: 685px; \n}
+        \n \n#apple-logo-left-margin { \n    width: 538px !impor...]]></description>\n<pubDate>Tue,
+        29 Jan 2019 10:24:57 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/bsai/\">【防災関連グッズ】飲料水 在庫有り！</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de857f9b</guid>\n</item>\n<item>\n<title>メンズコートの人気ブランドランキング！supreme
+        本物 人気激安通販</title>\n<link>https://sea.ap.teacup.com/kbdt/1076.html</link>\n<description><![CDATA[人気激安通販サイト【supreme
+        専門店】春夏秋冬の最新トレンドシュプリーム 最新 ーディネート・着こなしは当店で！ s5wksqbhiarnbjtqkum2wtn2nq6fn1rglwmus7aai7phnkwedzuwuytyfo11bgom2bmgl3mj38yco9ae9uojwzschfylhz2naux9coaomxrubydzyxqn3v76tadbnd4mygtm
+        \ \n \n▼詳細はこちらからzyo3vc68bcd659stvu4eo1q3uxczrvcf5noo8wmq1gr8yaumhn115ljmcp8fbzzuv1bhedqc6qj6ftmimitehvhzrg1v1wzgfe9yc9hqca9uqfeabt786ezfqqisiybrhxjn
+        \ \n \nhttp://www.vsupremejp.com/ \n qfkmyum10s44btkmmdb74s44qknd11cf2i1tfdrzgq3wj83pn9spttldjnxq...]]></description>\n<pubDate>Tue,
+        29 Jan 2019 08:19:21 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator></dc:creator>\n<source
+        url=\"http://sea.ap.teacup.com/kbdt/\">山田式骨盤ダイエット法</source>\n<guid isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de72019a</guid>\n</item>\n<item>\n<title>Maki
+        Horikita ;)</title>\n<link>http://plaza85.jugem.jp/?eid=2830</link>\n<description><![CDATA[:)<br>]]></description>\n<pubDate>Tue,
+        29 Jan 2019 07:23:11 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator>plaza
+        staff</dc:creator>\n<source url=\"http://plaza85.jugem.jp/\">//プラザホテル豊田////STAFF
+        BLOG//</source>\n<guid isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de7a8f28</guid>\n</item>\n<item>\n<title>Kyary
+        Pamyu Pamyu ;)</title>\n<link>http://plaza85.jugem.jp/?eid=2829</link>\n<description><![CDATA[:)<br>]]></description>\n<pubDate>Tue,
+        29 Jan 2019 07:23:11 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator>plaza
+        staff</dc:creator>\n<source url=\"http://plaza85.jugem.jp/\">//プラザホテル豊田////STAFF
+        BLOG//</source>\n<guid isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de7a8f20</guid>\n</item>\n<item>\n<title>Love</title>\n<link>http://plaza85.jugem.jp/?eid=2828</link>\n<description><![CDATA[:)<br>]]></description>\n<pubDate>Tue,
+        29 Jan 2019 07:23:11 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator>plaza
+        staff</dc:creator>\n<source url=\"http://plaza85.jugem.jp/\">//プラザホテル豊田////STAFF
+        BLOG//</source>\n<guid isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de7a8f18</guid>\n</item>\n<item>\n<title>Kyary
+        Pamyu Pamyu ;)</title>\n<link>http://plaza85.jugem.jp/?eid=2827</link>\n<description><![CDATA[:)<br>]]></description>\n<pubDate>Tue,
+        29 Jan 2019 07:23:11 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator>plaza
+        staff</dc:creator>\n<source url=\"http://plaza85.jugem.jp/\">//プラザホテル豊田////STAFF
+        BLOG//</source>\n<guid isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de7a8f15</guid>\n</item>\n<item>\n<title>;D</title>\n<link>http://www-kuzumochi.jugem.jp/?eid=578</link>\n<description><![CDATA[:)<br>]]></description>\n<pubDate>Tue,
+        29 Jan 2019 07:23:10 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator>くずもち。</dc:creator>\n<source
+        url=\"http://www-kuzumochi.jugem.jp/\">「ボ/ス/ラ/ッ/シ/ュの曲ヤ ラ ナ イ カ ^q^」</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de7a90b0</guid>\n</item>\n<item>\n<title>Yui
+        Aragaki ;)</title>\n<link>http://www-kuzumochi.jugem.jp/?eid=577</link>\n<description><![CDATA[:)<br>]]></description>\n<pubDate>Tue,
+        29 Jan 2019 07:23:10 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator>くずもち。</dc:creator>\n<source
+        url=\"http://www-kuzumochi.jugem.jp/\">「ボ/ス/ラ/ッ/シ/ュの曲ヤ ラ ナ イ カ ^q^」</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de7a90a2</guid>\n</item>\n<item>\n<title>My
+        photo for you</title>\n<link>http://www-kuzumochi.jugem.jp/?eid=576</link>\n<description><![CDATA[:)<br>]]></description>\n<pubDate>Tue,
+        29 Jan 2019 07:23:10 +0000</pubDate>\n<category>不審メール</category>\n<dc:creator>くずもち。</dc:creator>\n<source
+        url=\"http://www-kuzumochi.jugem.jp/\">「ボ/ス/ラ/ッ/シ/ュの曲ヤ ラ ナ イ カ ^q^」</source>\n<guid
+        isPermaLink=\"false\">http://www.inoreader.com/article/3a9c6e79de7a909d</guid>\n</item>\n</channel>\n</rss>"
+    http_version: 
+  recorded_at: Wed, 30 Jan 2019 08:19:14 GMT
+recorded_with: VCR 4.0.0
