@@ -1,0 +1,83 @@
+---
+http_interactions:
+- request:
+    method: post
+    uri: https://www.hybrid-analysis.com/api/v2/quick-scan/url-to-file
+    body:
+      encoding: UTF-8
+      string: scan_type=all&url=http%3A%2F%2Ffile.tancyo.blog.shinobi.jp%2F524fe724
+    headers:
+      Accept:
+      - application/json
+      Api-Key:
+      - HA_API_KEY
+      User-Agent:
+      - Falcon Sandbox
+      Connection:
+      - close
+      Content-Type:
+      - application/x-www-form-urlencoded
+      Host:
+      - www.hybrid-analysis.com
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Sat, 02 Feb 2019 07:16:48 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '602'
+      Connection:
+      - close
+      Set-Cookie:
+      - __cfduid=d251e594903c799486a9e3d6a14349f8c1549091796; expires=Sun, 02-Feb-20
+        07:16:36 GMT; path=/; domain=.hybrid-analysis.com; HttpOnly; Secure
+      Api-Limits:
+      - '{"limits":{"minute":20,"hour":200},"used":{"minute":1,"hour":5},"limit_reached":false}'
+      Api-Version:
+      - 2.3.3
+      Webservice-Version:
+      - ProdPatch-HA.?-af7b27f
+      Cache-Control:
+      - no-cache, no-store, must-revalidate
+      Pragma:
+      - no-cache
+      Expires:
+      - Wed, 11 Jan 1984 05:00:00 GMT
+      Quick-Scan-Limits:
+      - "[]"
+      X-Content-Type-Options:
+      - nosniff
+      Content-Security-Policy:
+      - 'default-src ''none''; connect-src ''self'' *.twitter.com; script-src ''self''
+        *.google.com *.gstatic.com *.google-analytics.com *.twitter.com *.twimg.com
+        freegeoip.net cdn.inspectlet.com frontend.id-visitors.com ''unsafe-inline''
+        ''unsafe-eval''; font-src ''self'' data: fonts.googleapis.com; child-src ''self''
+        data: *.google.com *.gstatic.com *.twitter.com; img-src ''self'' data: *.gstatic.com
+        *.google.com *.google-analytics.com stats.g.doubleclick.net *.twitter.com
+        *.twimg.com *.paypalobjects.com; style-src ''self'' *.google.com *.twitter.com
+        *.twimg.com ''unsafe-inline''; object-src ''self''; frame-ancestors ''none'''
+      X-Xss-Protection:
+      - 1; mode=block
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubdomains
+      X-Frame-Options:
+      - SAMEORIGIN
+      Accept-Ranges:
+      - bytes
+      Expect-Ct:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Cf-Ray:
+      - 4a2adf90793c6eed-NRT
+    body:
+      encoding: ASCII-8BIT
+      string: '{"id":"5c5543e07ca3e17219246a80","sha256":"12395dad2094673865c0610644f4eef8016d8b081e412d9e7d852b266d67a165","scanners":[{"name":"VirusTotal","status":"no-result","progress":100,"total":null,"positives":null,"percent":null,"anti_virus_results":[]},{"name":"Metadefender","status":"malicious","progress":67,"total":10,"positives":1,"percent":10,"anti_virus_results":[]},{"name":"CrowdStrike
+        Falcon Static Analysis (ML)","status":"no-result","progress":100,"total":null,"positives":null,"percent":null,"anti_virus_results":[]}],"whitelist":[{"id":"internal","value":false}],"reports":[],"finished":false}'
+    http_version: 
+  recorded_at: Sat, 02 Feb 2019 07:16:48 GMT
+recorded_with: VCR 4.0.0

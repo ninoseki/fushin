@@ -4,7 +4,10 @@ require "fushin/version"
 
 require "fushin/erros"
 
+require "fushin/hybrid_analysis"
+
 require "fushin/models/model"
+require "fushin/models/attachement"
 require "fushin/models/btc"
 require "fushin/models/website"
 

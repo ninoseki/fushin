@@ -26,4 +26,13 @@ RSpec.describe Fushin::Posts::Shinobi, :vcr do
       expect(links.length).to eq(0)
     end
   end
+
+  describe "#attachements" do
+    it "should return an Array" do
+      attachments = subject.attachements
+      expect(attachments).to be_an(Array)
+      expect(attachments.length).to eq(1)
+      first = attachments.first
+    end
+  end
 end

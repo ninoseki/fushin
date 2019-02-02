@@ -57,6 +57,10 @@ module Fushin
         end.compact
       end
 
+      def attachements
+        []
+      end
+
       private
 
       def main_selector
