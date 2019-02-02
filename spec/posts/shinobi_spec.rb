@@ -32,7 +32,6 @@ RSpec.describe Fushin::Posts::Shinobi, :vcr do
       attachments = subject.attachements
       expect(attachments).to be_an(Array)
       expect(attachments.length).to eq(1)
-      first = attachments.first
     end
   end
 end

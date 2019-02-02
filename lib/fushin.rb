@@ -7,7 +7,7 @@ require "fushin/erros"
 require "fushin/hybrid_analysis"
 
 require "fushin/models/model"
-require "fushin/models/attachement"
+require "fushin/models/attachment"
 require "fushin/models/btc"
 require "fushin/models/website"
 
