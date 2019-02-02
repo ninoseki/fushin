@@ -11,7 +11,8 @@ A malicious blog posts monitoring tool.
 - [x] Subscribe [a malicious blog posts feed](https://www.inoreader.com/stream/user/1006141524/tag/%E4%B8%8D%E5%AF%A9%E3%83%A1%E3%83%BC%E3%83%AB) (by [@catnap707](https://twitter.com/catnap707))
 - [x] Extract IoCs(BTC, URL) from a blog post
 - [x] Post extracted IoCs to Slack (or STDOUT) with enrichment
-- [ ] Attachment handling
+- [x] Attachment handling
+  - Scan a URL via Hybrid Analysis
 
 ## Supported blog types
 

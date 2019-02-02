@@ -1,0 +1,178 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://tancyo.blog.shinobi.jp/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/erika%20sawajiri%20--
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      Connection:
+      - close
+      Host:
+      - tancyo.blog.shinobi.jp
+      User-Agent:
+      - http.rb/4.0.3
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Fri, 01 Feb 2019 23:28:42 GMT
+      Server:
+      - Apache
+      Vary:
+      - Accept-Encoding
+      X-Powered-By:
+      - PHP/5.5.4
+      Set-Cookie:
+      - unq=1; expires=Sat, 02-Feb-2019 21:50:00 GMT; Max-Age=80478; path=/
+      Connection:
+      - close
+      Transfer-Encoding:
+      - chunked
+      Content-Type:
+      - text/html; charset=UTF-8
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"ja\" lang=\"ja\" dir=\"ltr\">\n<head>\n<meta
+        http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n<meta
+        http-equiv=\"Content-Language\" content=\"ja\" />\n<meta http-equiv=\"Content-Style-Type\"
+        content=\"text/css\" />\n<meta http-equiv=\"Content-Script-Type\" content=\"text/javascript\"
+        />\n<meta name=\"description\" content=\"つれづれに、つれづれな、岐阜のクラ吹き「となかい」の日常。\" />\n<meta
+        name=\"keywords\" content=\"クラリネット  \" />\n<title>Erika Sawajiri ;) | となぶろぐ</title>\n<link
+        rel=\"stylesheet\" href=\"http://tancyo.blog.shinobi.jp/css/\" type=\"text/css\"
+        media=\"all\" />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\"
+        href=\"http://tancyo.blog.shinobi.jp/RSS/\" />\n<link rel=\"alternate\" type=\"application/atom+xml\"
+        title=\"ATOM\" href=\"http://tancyo.blog.shinobi.jp/ATOM/\" />\n<link rel=\"shortcut
+        icon\" href=\"favicon.ico\" />\n</head>\n<body>\n<a style=\"border:0;position:absolute;right:5px;top:
+        5px;left:auto;bottom:auto;z-index:98;\" target=\"_blank\" href=\"http://www.ninja.co.jp/blog/?utm_source=blog&utm_medium=banner&utm_campaign=blog_userpage_logo\"><img
+        style=\"border:0;\" alt=\"忍者ブログ\" src=\"/admin/img/blogheader_logo.png\" /></a>\n\t<div
+        id=\"container\">\n\t\n\t\t<div id=\"header\">\n\t\t\t<p id=\"siteName\"><a
+        href=\"http://tancyo.blog.shinobi.jp/\">となぶろぐ</a></p>\n\t\t\t<h1>つれづれに、つれづれな、岐阜のクラ吹き「となかい」の日常。</h1>\n\t\t<!--
+        /END div#header --></div>\n\t\t<div id=\"primary\">\n\t\t\n\t\t\t<div class=\"inner\">\n\t\t\t\n\t\t\t\t\t\t\t<ul
+        class=\"pager\">\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/kyary%20pamyu%20pamyu%20--\">721</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/aya%20ueto%20--\">720</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/--_719\">719</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/nozomi%20sasaki%20--\">718</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/maki%20horikita%20--\">717</a></li>\n\t\t\t\t\t\t\t\t\t\t<li>716</li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/erika%20toda%20--\">715</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/-d_714\">714</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/sheena%20ringo%20--\">713</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/ayumi%20hamasaki%20--_712\">712</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/---_711\">711</a></li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t<div
+        class=\"entry\">\n\t\t\t\t\t<h2><a href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/erika%20sawajiri%20--\"
+        title=\"この記事の詳細ページへ移動\">Erika Sawajiri ;)</a></h2>\n\t\t\t\t\t<p class=\"text\">\n\t\t\t\t\t\t<div>:)<br
+        /><br /><br /><br /><br /><a href=\"http://file.tancyo.blog.shinobi.jp/0f68aa84\"
+        target=\"_blank\">ダウンロード</a>  </div><div class=\"NinjaEntryCommercial\" style=\"padding-top:
+        1em; width: 300px; text-align: right;\"><script type=\"text/javascript\" charset=\"utf-8\"
+        src=\"//asumi.shinobi.jp/encount\"></script><script type=\"text/javascript\"
+        charset=\"utf-8\" src=\"//asumi.shinobi.jp/fire?f=425\"></script>PR</div>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t\t<p
+        class=\"info\">\n\t\t\t\t\t\t<span class=\"date\"><a href=\"/Date/20190129/\"
+        title=\"投稿日\">2019/01/29</a></span>\n\t\t\t\t\t\t<span class=\"category\"><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/\" title=\"カテゴリー\">モブログ</a></span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span
+        class=\"comment\"><a href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/erika%20sawajiri%20--#comment\"
+        title=\"コメント\">Comment(0)</a></span>\n\t\t\t\t\t\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\t\t\t\t<ul
+        class=\"flip\">\n\t\t\t\t\t\t\t\t\t\t\t<li>Newer&nbsp;:&nbsp;<a href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/maki%20horikita%20--\"
+        title=\"ひとつ新しい記事へ移動\">Maki Horikita ;)</a></li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li>Older&nbsp;:&nbsp;<a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/erika%20toda%20--\" title=\"ひとつ古い記事へ移動\">Erika
+        Toda ;)</a></li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p
+        class=\"ttl\" id=\"comment\">COMMENT</p>\n\t\t\t\t\t\t\t\t<p class=\"ttl\">COMMENT
+        FORM</p>\n\t\t\t\t<form action=\"/CommentForm/716/\" method=\"post\">\n\t\t\t\t\t<dl
+        class=\"form\">\n\t\t\t\t\t\t<dt>NAME</dt>\n\t\t\t\t\t\t<dd><input type=\"text\"
+        name=\"name\" value=\"\" /></dd>\n\t\t\t\t\t\t<dt>MAIL</dt>\n\t\t\t\t\t\t<dd><input
+        type=\"text\" name=\"mail\" value=\"\" /></dd>\n\t\t\t\t\t\t<dt>WEB</dt>\n\t\t\t\t\t\t<dd><input
+        type=\"text\" name=\"url\" value=\"\" /></dd>\n\t\t\t\t\t\t<dt>TITLE</dt>\n\t\t\t\t\t\t<dd><input
+        type=\"text\" name=\"title\" value=\"\" /></dd>\n\t\t\t\t\t\t<dt>COMMENT</dt>\n\t\t\t\t\t\t<dd><textarea
+        name=\"comment\" cols=\"20\" rows=\"20\"></textarea></dd>\t\n\t\t\t\t\t\t<dt>PASSWORD</dt>\n\t\t\t\t\t\t<dd><input
+        type=\"password\" name=\"pass\" /></dd>\n\t\t\t\t\t</dl>\n\t\t\t\t\t<p><input
+        type=\"submit\" value=\"SUBMIT COMMENT\" class=\"submit\" /></p>\t\n\t\t\t\t</form>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<ul
+        class=\"pager under\">\n\t\t\t\t\t\t\t\t\t\t<li><a href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/kyary%20pamyu%20pamyu%20--\">721</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/aya%20ueto%20--\">720</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/--_719\">719</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/nozomi%20sasaki%20--\">718</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/maki%20horikita%20--\">717</a></li>\n\t\t\t\t\t\t\t\t\t\t<li>716</li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/erika%20toda%20--\">715</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/-d_714\">714</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/sheena%20ringo%20--\">713</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/ayumi%20hamasaki%20--_712\">712</a></li>\n\t\t\t\t\t\t\t\t\t\t<li><a
+        href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/---_711\">711</a></li>\n\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<!--
+        /END div.inner --></div>\n\t\t\n\t\t<div id=\"footer\">\n\t\t\t<ul id=\"footerNavi\">\n\t\t\t\t\t<li><a
+        href=\"https://www.ninja.co.jp/blog/?utm_source=blog&utm_medium=text&utm_campaign=blog_userpage_cm1\"
+        target=\"_blank\" title=\"忍者ブログ\">忍者ブログ</a></li>\n\t\t\t\t\t<li>[PR]<style>.asumi_ad_frame{display:inline-block;}\n.asumi_ad_frame
+        div{display:inline-block;}\n</style>\n<div class=\"asumi_ad_frame\"><script
+        type=\"text/javascript\" charset=\"utf-8\" src=\"//asumi.shinobi.jp/encount\"></script><script
+        type=\"text/javascript\" charset=\"utf-8\" src=\"//asumi.shinobi.jp/fire?f=184\"></script></div></li>\t\t\t\t\n\t\t\t<!--
+        /END ul#footerNavi --></ul>\n\t\t<!-- /END div#footer --></div>\n\t\t\t\n\t\t<!--
+        /END div#primary --></div>\n\t\t\n\t\t<div id=\"secondary\">\n\t\t\t\t\t\t<dl>\n\t\t\t\t<dt>カレンダー</dt>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t\t<dd><table
+        class=\"CalendarMoveTable\">\n<tr class=\"CalendarMoveTr\">\n<td class=\"CalendarPrevTd\">\n<a
+        href=\"/Date/201901/\">01</a>\n</td>\n<td class=\"CalendarNowTd\">2019/02</td>\n<td
+        class=\"CalendarNextTd\">\n<a href=\"/Date/201903/\">03</a>\n</td>\n</tr>\n</table>\n<table
+        class=\"CalendarTable\">\n<tr class=\"CalendarWdayTr\">\n<th class=\"CalendarWdaySun\">S</th>\n<th
+        class=\"CalendarWday\">M</th>\n<th class=\"CalendarWday\">T</th>\n<th class=\"CalendarWday\">W</th>\n<th
+        class=\"CalendarWday\">T</th>\n<th class=\"CalendarWday\">F</th>\n<th class=\"CalendarWdaySat\">S</th>\n</tr><tr
+        class=\"CalendarTr\">\n<td class=\"CalendarTdSun\"></td>\n<td class=\"CalendarTd\"></td>\n<td
+        class=\"CalendarTd\"></td>\n<td class=\"CalendarTd\"></td>\n<td class=\"CalendarTd\"></td>\n<td
+        class=\"CalendarTd\"><div class=\"CalendarTdLink\"><a href=\"/Date/20190201/1/\"><span
+        class=\"CalendarTdLinkFont\">1</span></a></div></td>\n<td class=\"CalendarTdSat\">2</td>\n</tr><tr
+        class=\"CalendarTr\">\n<td class=\"CalendarTdSun\">3</td>\n<td class=\"CalendarTd\">4</td>\n<td
+        class=\"CalendarTd\">5</td>\n<td class=\"CalendarTd\">6</td>\n<td class=\"CalendarTd\">7</td>\n<td
+        class=\"CalendarTd\">8</td>\n<td class=\"CalendarTdSat\">9</td>\n</tr><tr
+        class=\"CalendarTr\">\n<td class=\"CalendarTdSun\">10</td>\n<td class=\"CalendarTd\">11</td>\n<td
+        class=\"CalendarTd\">12</td>\n<td class=\"CalendarTd\">13</td>\n<td class=\"CalendarTd\">14</td>\n<td
+        class=\"CalendarTd\">15</td>\n<td class=\"CalendarTdSat\">16</td>\n</tr><tr
+        class=\"CalendarTr\">\n<td class=\"CalendarTdSun\">17</td>\n<td class=\"CalendarTd\">18</td>\n<td
+        class=\"CalendarTd\">19</td>\n<td class=\"CalendarTd\">20</td>\n<td class=\"CalendarTd\">21</td>\n<td
+        class=\"CalendarTd\">22</td>\n<td class=\"CalendarTdSat\">23</td>\n</tr><tr
+        class=\"CalendarTr\">\n<td class=\"CalendarTdSun\">24</td>\n<td class=\"CalendarTd\">25</td>\n<td
+        class=\"CalendarTd\">26</td>\n<td class=\"CalendarTd\">27</td>\n<td class=\"CalendarTd\">28</td>\n<td
+        class=\"CalendarTd\"></td>\n<td class=\"CalendarTdSat\"></td>\n</tr></table>&nbsp;</dd>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t</dl>\n\t\t\t\t\t\t<dl>\n\t\t\t\t<dt>おきゃくさま</dt>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t\t<dd><!--
+        shinobi ct1 --><script type=\"text/javascript\" src=\"http://ct1.syoutikubai.com/sc/0441647\"></script>\n<noscript><a
+        href=\"http://ct1.syoutikubai.com/gg/0441647\" target=\"_blank\"><img src=\"http://ct1.syoutikubai.com/ll/0441647\"
+        border=\"0\" alt=\"カウンター\"></a></noscript><!-- /shinobi ct1 -->&nbsp;</dd>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t</dl>\n\t\t\t\t\t\t<dl>\n\t\t\t\t<dt>photomemo</dt>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t\t<dd><script
+        type='text/javascript' src='http://photomemo.jp/public/badge/tonakaitani.js?num=4'></script>&nbsp;</dd>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t</dl>\n\t\t\t\t\t\t<dl>\n\t\t\t\t<dt>アーカイブ</dt>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t\t<dd><div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201902/1.html\n\">\n2019\n年\n02\n月\n(\n9\n)\n</a>\n</div>\n<div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201901/1.html\n\">\n2019\n年\n01\n月\n(\n63\n)\n</a>\n</div>\n<div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201812/1.html\n\">\n2018\n年\n12\n月\n(\n7\n)\n</a>\n</div>\n<div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201811/1.html\n\">\n2018\n年\n11\n月\n(\n10\n)\n</a>\n</div>\n<div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201808/1.html\n\">\n2018\n年\n08\n月\n(\n5\n)\n</a>\n</div>\n<div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201807/1.html\n\">\n2018\n年\n07\n月\n(\n5\n)\n</a>\n</div>\n<div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201806/1.html\n\">\n2018\n年\n06\n月\n(\n7\n)\n</a>\n</div>\n<div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201805/1.html\n\">\n2018\n年\n05\n月\n(\n2\n)\n</a>\n</div>\n<div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201804/1.html\n\">\n2018\n年\n04\n月\n(\n5\n)\n</a>\n</div>\n<div
+        class=\"plugin_data\">\n<a href=\"\nhttp://tancyo.blog.shinobi.jp/Date/201803/1.html\n\">\n2018\n年\n03\n月\n(\n2\n)\n</a>\n</div>\n&nbsp;</dd>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t</dl>\n\t\t\t\t\t\t<dl>\n\t\t\t\t<dt>最新CM</dt>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t\t<dd><div
+        class=\"plugin_data\">\n<div class=\"plugin_cm\">\n♪<a href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/%EF%BD%82%EF%BD%83%EF%BD%8F%E5%AE%9A%E6%9C%9F%E6%BC%94%E5%A5%8F%E4%BC%9A#comment2\">ＢＣＯ定期演奏会</a>\nfrom:となかい</div></div><div
+        class=\"plugin_data\">\n<div class=\"plugin_cm\">\n♪<a href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/%EF%BD%82%EF%BD%83%EF%BD%8F%E5%AE%9A%E6%9C%9F%E6%BC%94%E5%A5%8F%E4%BC%9A#comment1\">ＢＣＯ定期演奏会</a>\nfrom:tama</div></div><div
+        class=\"plugin_data\">\n<div class=\"plugin_cm\">\n♪<a href=\"/%E3%83%A2%E3%83%96%E3%83%AD%E3%82%B0/9-2%20%E3%81%A1%E3%82%83%E3%82%93%E3%83%BB%E3%83%99%E3%83%AA%E3%83%BB%E3%81%A9%E3%83%BC%E3%82%93%E2%98%85#comment1\">9/2
+        ちゃん・ベリ・どーん★</a>\nfrom:だいこん</div></div><div class=\"plugin_data\">\n<div class=\"plugin_cm\">\n♪<a
+        href=\"/c%E5%9E%8B%E8%82%9D%E7%82%8E/ifn16%E5%9B%9E%E7%9B%AE#comment3\">IFN16回目</a>\nfrom:NONAME</div></div><div
+        class=\"plugin_data\">\n<div class=\"plugin_cm\">\n♪<a href=\"/c%E5%9E%8B%E8%82%9D%E7%82%8E/ifn16%E5%9B%9E%E7%9B%AE#comment2\">IFN16回目</a>\nfrom:となかい</div></div>&nbsp;</dd>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t</dl>\n\t\t\t\t\t\t<dl>\n\t\t\t\t<dt>プロフィール</dt>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t\t<dd><div
+        class=\"profile_image\">\n<img src=\"http://file.tancyo.blog.shinobi.jp/LinkImg/1164604765/\"
+        border=\"0\">\n</div><div class=\"plugin_data\">\nＨＮ：\n\t<div class=\"right\">となかい</div>\n</div><div
+        class=\"plugin_data\">\n年齢：\n\t<div class=\"right\">40</div>\n</div><div class=\"plugin_data\">\n性別：\n\t<div
+        class=\"right\">女性</div>\n</div><div class=\"plugin_data\">\n誕生日：\n\t<div
+        class=\"right\">\n\t\t1978/04/27\t</div>\n</div><div class=\"plugin_data\">\n職業：\n\t<div
+        class=\"right\">なんちゃってコボリスト</div>\n</div><div class=\"plugin_data\">\n趣味:\n\t<div
+        class=\"right\">クラリネット、料理</div>\n</div><div class=\"plugin_data\">\n自己紹介：\n\t<div
+        class=\"left\">1978年：誕生\r<br />1991年：ｸﾗﾘﾈｯﾄに出逢う\r<br />1999年：現在の師匠に出逢う\r<br
+        />2001年：GBO結成と同時に入団\r<br />2004年：丸響入団,ｵｹに挑戦\r<br />2006年：黒森発足Ｅ♭ｸﾗ購入\r<br />2007年：ｸﾗﾘﾈｯﾂ参加\r<br
+        />2009年：GBO退団\r<br />\r<br />…いろいろあって現在に至る。\r<br />\r<br />元C型肝炎患者。\r<br />INF治療によって完治するが\r<br
+        />現在も経過観察は継続中。\r<br />\r<br />時折つぶやきます。\r<br />http://twitter.com/tonakaitani</div>\n</div>&nbsp;</dd>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t</dl>\n\t\t\t\t\t\t<dl>\n\t\t\t\t<dt>ブログ内検索</dt>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t\t<dd><div
+        class=\"blogsearch\"><form action=\"/Search/\" method=\"POST\">\n<input type=\"text\"
+        name=\"search\" value=\"\" class=\"box\">\n<input type=\"submit\" value=\"検索\"
+        class=\"btn\">\n</form></div>&nbsp;</dd>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t</dl>\n\t\t\t\t\t\t<dl>\n\t\t\t\t<dt>リンク</dt>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t\t<dd><div
+        class=\"plugin_data\">\n<a href=\"/hoge/\" target=\"_blank\">管理画面</a>\n</div><div
+        class=\"plugin_data\">\n<a href=\"/hoge/NewEntry/\" target=\"_blank\">新しい記事を書く</a>\n</div>&nbsp;</dd>\n\t\t\t\t<dd>&nbsp;</dd>\n\t\t\t</dl>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<!--
+        /END div#secondary --></div>\n\t\t\n\t<!-- /END div#container --></div><!--shinobi1--><script
+        type=\"text/javascript\" src=\"http://x5.akazunoma.com/ufo/087047000\"></script>\n<noscript><a
+        href=\"http://x5.akazunoma.com/bin/gg?087047000\" target=\"_blank\">\n<img
+        src=\"http://x5.akazunoma.com/bin/ll?087047000\" border=\"0\"></a><br>\n<span
+        style=\"font-size:9px\"><img style=\"margin:0;vertical-align:text-bottom;\"
+        src=\"http://img.shinobi.jp/tadaima/fj.gif\" width=\"19\" height=\"11\"> <a
+        href=\"http://nisetai_reform.rentalurl.net\" target=\"_blank\">二世帯　リフォーム</a>
+        <a href=\"http://flooring.rentalurl.net\" target=\"_blank\">フローリング</a></span></noscript><!--shinobi2--></body>\n</html>"
+    http_version: 
+  recorded_at: Fri, 01 Feb 2019 23:28:42 GMT
+recorded_with: VCR 4.0.0

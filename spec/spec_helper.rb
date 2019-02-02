@@ -12,6 +12,7 @@ Coveralls.wear!
 
 require "fushin"
 require "vcr"
+require "dotenv/load"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
@@ -30,4 +31,6 @@ VCR.configure do |config|
   config.configure_rspec_metadata!
   config.hook_into :webmock
   config.ignore_localhost = true
+
+  config.filter_sensitive_data("HA_API_KEY") { ENV.fetch("HA_API_KEY") }
 end
