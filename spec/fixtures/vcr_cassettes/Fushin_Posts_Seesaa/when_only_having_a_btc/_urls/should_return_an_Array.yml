@@ -1,0 +1,419 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://patent.seesaa.net/article/463958096.html
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      Connection:
+      - close
+      Host:
+      - patent.seesaa.net
+      User-Agent:
+      - http.rb/4.0.3
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - text/html; charset=Shift_JIS
+      Content-Length:
+      - '32782'
+      Connection:
+      - close
+      Vary:
+      - Accept-Encoding
+      - User-Agent
+      Date:
+      - Sun, 03 Feb 2019 22:22:49 GMT
+      Server:
+      - Apache
+      Last-Modified:
+      - Sun, 03 Feb 2019 20:33:54 GMT
+      Etag:
+      - '"581034b6ef080"'
+      X-Cache:
+      - Miss from cloudfront
+      Via:
+      - 1.1 9b9ab3a73cbd78e40d76634d7afe7cc1.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - COcx5CunhyRJMeicg-YAHiwAbmHJnsSciv3BBZYAQja-XFF0-s4wbQ==
+    body:
+      encoding: Shift_JIS
+      string: "<?xml version=\"1.0\" encoding=\"Shift_JIS\"?>\n<!DOCTYPE html PUBLIC
+        \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"ja\" lang=\"ja\">\n<head><script
+        src=\"http://blog.seesaa.jp/js/insert-ad-legacy.min.js\"></script>\n<link
+        rel=\"shortcut icon\" type=\"image/x-icon\" href=\"http://cdn.blog.seesaa.jp/favicon.ico\"
+        />\n<link rel=\"apple-touch-icon\" href=\"http://blog.seesaa.jp/img/iphone/apple-touch-icon.png\"
+        />\n<meta property=\"fb:app_id\" content=\"216026118496977\" />\n<meta property=\"og:title\"
+        content=\"post-jkjhgjf : 399495\" />\n<meta property=\"og:type\" content=\"website\"
+        />\n<meta property=\"og:url\" content=\"http://patent.seesaa.net/article/463958096.html\"
+        />\n<meta property=\"og:image\" content=\"http://blog.seesaa.jp/img/ogp_logo.png\"
+        />\n<meta property=\"og:description\" content=\"I am aware 399495 is one of
+        your pass. Lets get directly to the point. No-one has paid me to investigate
+        about you. You do not know me and you're most likely thinking why you're getting
+        this email?  kosons post-jkjhgjf 399495 xikemuh post-jkjhgjf \" />\n<meta
+        property=\"og:site_name\" content=\"技術系社員の「ぼやき」\" />\n<meta name=\"twitter:card\"
+        content=\"summary\" />\n\n<meta http-equiv=\"Content-Type\" content=\"text/html;
+        charset=Shift_JIS\" />\n<title>post-jkjhgjf : 399495: 技術系社員の「ぼやき」</title>\n<META
+        name=\"ROBOTS\" content=\"INDEX,FOLLOW\">\n<meta name=\"description\" content=\"特許報奨金を４００万円もらった実績がある管理人のぼやきをダラダラ綴るブログ。設計、技術系の職場、儲け話などなど語ります。\"
+        />\n<meta name=\"keywords\" content=\"PATENT 特許 設計 エンジニア 職務発明 報奨金 請求項 出願報償
+        登録報償 海外出願 発明考案 ノルマ 特許マップ 抵触\" />\n<meta http-equiv=\"Content-Style-Type\"
+        content=\"text/css\" />\n<meta http-equiv=\"Content-Script-Type\" content=\"text/javascript\"
+        />\n<link rel=\"stylesheet\" href=\"http://patent.seesaa.net/styles-index.css\"
+        type=\"text/css\" />\n<link rel=\"alternate\" href=\"http://patent.seesaa.net/index.rdf\"
+        type=\"application/rss+xml\" title=\"RSS\" />\n\n</head>\n<body><script type=\"text/javaScript\">seesaa_site_id
+        = 'patent'; seesaa_floating = false;</script>\n<a href=\"javascript:document.cookie='force_pc=0;
+        max-age=15768000; path=/'; document.cookie='force_sp=1; max-age=15768000;
+        path=/'; document.location='/?from_pc'\" style=\"display: block; width: 100%;
+        min-width: 1070px; text-decoration: none;\"><div id=\"iphone-link\" style=\"display:none;
+        font-family: sans-serif; padding: 28px 0; width: 100%; color: #FFF; background:
+        #333; min-height: 80px; line-height: 80px; box-sizing: border-box; font-size:
+        48px; font-weight: 700; text-decoration:none;\">スマートフォン専用ページを表示</div></a>\n<script
+        type=\"text/javascript\"><!--\nif ((0 <= navigator.userAgent.indexOf('iPhone'))
+        || (0 <= navigator.userAgent.indexOf('Android'))) { document.getElementById('iphone-link').style.display
+        = 'block'; }\n//--></script>\n<!-- common header -->\n<script type=\"text/javascript\"
+        src=\"http://blog.seesaa.jp/contents/js/common_header.js\" charset=\"Shift_JIS\"></script>\n<script
+        type=\"text/javascript\">renderCmnHeader('#333333', '#eeeeee', '4.gif');</script>\n<!--
+        common header -->\n\n<font size=\"2\"><a href=\"http://patent.seesaa.net/\"><strong>post-jkjhgjf
+        : 399495</strong></a></font>\n<div id=\"container\">\n<script type=\"text/javascript\"
+        language=\"JavaScript\" src=\"http://blog.seesaa.jp/contents/js/ad_plugin.js\"></script>\n<div
+        id=\"banner\">\n<h1><a href=\"http://patent.seesaa.net/\" accesskey=\"1\">技術系社員の「ぼやき」</a></h1>\n\n<span
+        class=\"description\">特許報奨金を４００万円もらった実績がある<br />管理人のぼやきをダラダラ綴るブログ。<br />設計、技術系の職場、儲け話などなど語ります。</span>\n\n\n\n</div>\n\n\n<div
+        id=\"links-left\">\n<br>\n<center>\n<script type=\"text/javascript\"><!--\ngoogle_ad_client
+        = \"ca-pub-8244292477613452\";\n/* ぐんざぶろう　リンク */\ngoogle_ad_slot = \"6960083552\";\ngoogle_ad_width
+        = 180;\ngoogle_ad_height = 90;\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n</center>\n<br>\n\n<blockquote>＜オススメコンテンツ＞<br>\n<br>\n<a
+        href=\"http://dorapate.seesaa.net/\" target=\"_blank\">・ドラえもんアイテム級のマジ特許</a><br>\n<br>\n<a
+        href=\"http://osigotodesu.web.fc2.com/raku-pate/index.html\" target=\"_blank\">・職務発明を簡単に作成する方法</a></blockquote>\n\n<div
+        class=\"sidetitle\">カテゴリ</div>\n<div class=\"side\">\n<a href=\"http://patent.seesaa.net/category/19738559-1.html\">技術職・実務</a>(5)<br
+        />\n<a href=\"http://patent.seesaa.net/category/605348-1.html\">商品開発</a>(10)<br
+        />\n<a href=\"http://patent.seesaa.net/category/576065-1.html\">企業内発明家</a>(214)<br
+        />\n<a href=\"http://patent.seesaa.net/category/596792-1.html\">特許いろいろ</a>(236)<br
+        />\n<a href=\"http://patent.seesaa.net/category/598396-1.html\">発明の仕方</a>(197)<br
+        />\n<a href=\"http://patent.seesaa.net/category/599463-1.html\">世間の特許話し</a>(214)<br
+        />\n<a href=\"http://patent.seesaa.net/category/599544-1.html\">【あ行】</a>(4)<br
+        />\n<a href=\"http://patent.seesaa.net/category/599547-1.html\">【か行】</a>(12)<br
+        />\n<a href=\"http://patent.seesaa.net/category/599548-1.html\">【さ行】</a>(22)<br
+        />\n<a href=\"http://patent.seesaa.net/category/599549-1.html\">【た行】</a>(11)<br
+        />\n<a href=\"http://patent.seesaa.net/category/599551-1.html\">【は行】</a>(9)<br
+        />\n<a href=\"http://patent.seesaa.net/category/599553-1.html\">【ま行】</a>(2)<br
+        />\n<a href=\"http://patent.seesaa.net/category/599554-1.html\">【や行】</a>(2)<br
+        />\n<a href=\"http://patent.seesaa.net/category/599555-1.html\">【ら行】</a>(1)<br
+        />\n<a href=\"http://patent.seesaa.net/category/23540158-1.html\">組織・チーム</a>(0)<br
+        />\n</div>\n\n<div class=\"sidetitle\">管理人</div>\n<div style=\"text-align:center;\"><a
+        href=\"http://patent.up.seesaa.net/image/VFSH0038.JPG\" onclick=\"window.open('http://patent.up.seesaa.net/image/VFSH0038.JPG','popup','width=670,height=510,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0');
+        return false\"><img src=\"http://patent.up.seesaa.net/image/VFSH0038-thumbnail2.JPG\"
+        alt=\"VFSH0038.JPG\" width=\"100\"  border=\"0\" /></a></div><div class=\"side\">\n\n名前:inukiti<br
+        />\n\n性別:男<br />\n\n職業:技術系サラリーマン<br />\n\n一言:自称：企業内職務発明家<br />趣味：車、パソコン<br
+        /><br />久しぶりの職務発明制度のある会社に転職できました。前職みたいにやりすぎると変人あつかいされるのでほどほどに活動してます。<br />\n<a
+        href=\"http://patent.seesaa.net/foaf.rdf\"><img border=\"0\" src=\"http://blog.seesaa.jp/img/top/foaf.gif\"
+        /></a></div>\n\n<B>＜＜製図関連コンテンツ＞＞</B><br><br><a href=\"http://osigotodesu.web.fc2.com/tyuuki/index.html\"
+        target=\"_blank\" title=\"モノづくりの要！実践的な注記とその解説を紹介します。\">・要となる実践的図面注記</a><br><a
+        href=\"http://osigotodesu.web.fc2.com/jiskousa/index.html\" target=\"_blank\"
+        title=\"正しく理解でき今日からできる製図スキルアップ！\">・図解！かわかりやすい幾何公差</a><br><a href=\"http://osigotodesu.web.fc2.com/zumen/index.html\"
+        target=\"_blank\" title=\"図面トラブルの原因及び実践しやすい対処法を簡単速攻理解！\">・図面トラブル対処法</a><br><a
+        href=\"http://osigotodesu.web.fc2.com/kousa/index.html\" target=\"_blank\"
+        title=\"図面公差を最適化する手法です。公差の入れ方でお悩みの方に是非お勧めの技術です\">・公差設計</a><br><br><B>＜＜３Ｄ関連コンテンツ＞＞</B><br><br><a
+        href=\"http://osigotodesu.web.fc2.com/3dtoriatukai/index.html\" target=\"_blank\"
+        title=\"データ活用による事例を理解しトラブルを未然に防止します。\">・３Ｄ設計トラブル回避術</a><br><a href=\"http://jyushi.kt.fc2.com/dezain/\"
+        target=\"_blank\" title=\"樹脂設計便覧別館です。商品設計におけるデザイナーとのやり取りをまとめたノウハウ集です。\">・デザイン対応ノウハウ</a><br><a
+        href=\"http://osigotodesu.web.fc2.com/cswp-core/index.html\" target=\"_blank\"
+        title=\"ソリッドワークス認定試験の実践極秘テクニック集です。認定取得を目指す方にお勧めです。\">・一発合格を目指すCSWP_CORE(SolidWorks認定試験)</a><br><br><B>＜＜設計ノウハウ関連コンテンツ＞＞</B><br><br><a
+        href=\"http://osigotodesu.web.fc2.com/abs-ps/index.html\" target=\"_blank\"
+        title=\"ＡＢＳからＰＳへ材料変更によるコストダウンと留意点。\">・コストダウンの為の樹脂製品設計</a><br><a href=\"http://osigotodesu.web.fc2.com/bankin/index.html\"
+        target=\"_blank\" title=\"シンプルにまとめた即実践可能な板金設計事例を紹介します。\">・即実践！板金設計事例</a><br><a
+        href=\"http://osigotodesu.web.fc2.com/mekki/index.html\" target=\"_blank\"
+        title=\"メッキの基本を理解し設計対応力・スキルアップ！\">・設計者が使えるメッキ知識</a><br><a href=\"http://osigotodesu.web.fc2.com/yukon/index.html\"
+        target=\"_blank\" title=\"輸出向け梱包に関するデータやノウハウの紹介です。\">・製品輸出の為の梱包設計</a><br><a
+        href=\"http://jyushi.kt.fc2.com/\" target=\"_blank\" title=\"樹脂設計のノウハウをまとめて解説します。実践・教育用に役立ちます。\">・樹脂設計便覧</a><br><br><B>＜＜特許関連コンテンツ＞＞</B><br><br><a
+        href=\"http://osigotodesu.web.fc2.com/raku-pate/index.html\" target=\"_blank\"
+        title=\"設計者が発明を簡単に行う事ができ即実践出来る手法を紹介します。\">・職務発明を簡単に作成する方法</a><br><br><B>＜＜業務管理関連コンテンツ＞＞</B><br><br><a
+        href=\"https://sites.google.com/site/niteikanri/\" target=\"_blank\" title=\"日程整理し効率化とともに優先度・タイミングを完全コントロール！管理者必見！\">・スキルが上がる[超日程管理術]</a><br><br><br><br>\n\n\n<script
+        type=\"text/javascript\" language=\"javascript\" src=\"http://blog.seesaa.jp/js/tag_cloud.js\"></script>\n<div
+        class=\"sidetitle\">タグクラウド</div>\n<div class=\"side-tag\">\n<div id=\"tag_cloud_136766845\"
+        style=\"word-break:break-all;\">\n<a href=\"/tag/%8BZ%8Fp%90E\" class=\"_tag\"
+        title=\"技術職/1\">技術職</a> </div>\n<script type=\"text/javascript\" language=\"javascript\"><!--\ntag_cloud(\"tag_cloud_136766845\");\n--></script>\n</div>\n\n<center>\n<script
+        type=\"text/javascript\">var a8='a04011910933_1U7G8W_FZ584I_2HOM_BUB81';var
+        rankParam='3NCPTmgazGB-LDQTzlBAckBUFGBU64gdTN64TcBV-1039J7ko';var bannerType='1';var
+        bannerKind='item.variable.kind2';var vertical='30';var horizontal='1';var
+        alignment='0';var frame='1';var ranking='1';var category='おもちゃ・ホビー・ゲーム';</script><script
+        type=\"text/javascript\" src=\"http://rws.a8.net/rakuten/ranking.js\"></script>\n</center>\n<br><br>\n\n<div
+        class=\"syndicate\">\n<a href=\"/index.rdf\">RDF Site Summary</a><br />\n<a
+        href=\"/index20.rdf\">RSS 2.0</a><br />\n</div>\n\n\n\n</div>\n\n\n<div id=\"content\">\n\n\n<!--
+        Content -->\n\n\n<div class=\"navi\">\n<a href=\"http://patent.seesaa.net/article/463738150.html\">&lt;&lt;</a>
+        <a href=\"http://patent.seesaa.net/article/463738150.html\">The biggest, best,
+        most amazing, OMG, ever, sale event.Starts now.</a> | \n<a href=\"http://patent.seesaa.net/\">TOP</a>\n\n</div>\n\n\n\n\n\n\n<div
+        class=\"blog\">\n\n<!--\n<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+        \        xmlns:Trackback=\"http://madskills.com/public/xml/rss/module/Trackback/\"\n
+        \        xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n<rdf:Description\n
+        \   rdf:about=\"http://patent.seesaa.net/article/463958096.html\"\n    trackback:ping=\"\"\n
+        \   dc:title=\"post-jkjhgjf : 399495\"\n    dc:identifier=\"http://patent.seesaa.net/article/463958096.html\"\n
+        \   dc:description=\"I am aware 399495 is one of your pass. Lets get directly
+        to the point. No-one has paid me to investigate about you. You do not know
+        me and you're most likely thinking why you're getting this email?kosons post-jkjhgjf
+        399495xikemuh post-jkjh..\"\n    dc:creator=\"INUKITI\"\n    dc:subject=\"発明の仕方\"\n
+        \   dc:date=\"2019-02-02T04:39:05+09:00\"\n/>\n</rdf:RDF>\n-->\n<h2 class=\"date\">2019年02月02日</h2>\n<div
+        class=\"blogbody\">\n<h3 class=\"title\"><a href=\"http://patent.seesaa.net/article/463958096.html\"
+        class=\"title\">post-jkjhgjf : 399495</a></h3>\n\n<div class=\"text\">I am
+        aware 399495 is one of your pass. Lets get directly to the point. No-one has
+        paid me to investigate about you. You do not know me and you're most likely
+        thinking why you're getting this email?<br /><br><br /><font color=\"white\">kosons</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">xikemuh</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">syrci</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">rpiyikni</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">bfewhas</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">fogepe</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">igywwipow</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">or</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">z</font> <font
+        color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">sniafojed</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><br><br />actually, i placed a malware
+        on the xxx streaming (sex sites) web site and guess what, you visited this
+        web site to experience fun (you know what i mean). While you were watching
+        videos, your internet browser started functioning as a Remote control Desktop
+        with a keylogger which provided me accessibility to your display and cam.
+        Just after that, my software program obtained all of your contacts from your
+        Messenger, FB, as well as e-mail . Next i made a video. First part displays
+        the video you were watching (you've got a fine taste : )), and next part shows
+        the recording of your web camera, and it is you. <br /><br><br /><font color=\"white\">svueted</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">opu</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">uqyqdt</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">ozakig</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">fyunoytum</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">dalcueyle</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">ouzqy</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">ehizozycy</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">bv</font> <font
+        color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">pyc</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><br><br />You have a pair of solutions.
+        We should explore each of these solutions in aspects:<br /><br><br /><font
+        color=\"white\">teodta</font> <font color=\"white\">post-jkjhgjf</font> <font
+        color=\"white\">399495</font><br /><font color=\"white\">byuc</font> <font
+        color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">oitae</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">haqabj</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">afroeqkax</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">wzygmouge</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">xikeba</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">x</font> <font
+        color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">i</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">mafayhifa</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><br><br />Very first choice is to neglect this email. in that case, i will
+        send out your actual video clip to all your your contacts and then consider
+        concerning the embarrassment you experience. Keep in mind should you be in
+        a romance, just how this will affect?<br /><br><br /><font color=\"white\">wvcavb</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">sodsvwiq</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">miojytik</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">uhapuseja</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">vivoeaez</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">aajkroema</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">apguowwux</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">orufobio</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">nh</font> <font
+        color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">yj</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><br><br />2nd alternative would be
+        to give me USD 967. We are going to think of it as a donation. Consequently,
+        i most certainly will promptly erase your video recording. You will carry
+        on with your daily routine like this never took place and you surely will
+        never hear back again from me.<br /><br><br /><font color=\"white\">mky</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">wygoyjo</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">vdcmueh</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">qitasexu</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">heqa</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">fqigxe</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">tpiequ</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">bahog</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">xizuii</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">vilekjval</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><br><br />You will make the payment
+        by Bi&#8204;tco&#8204;in (if you don't know this, search for 'how to buy b&#8204;itcoi&#8204;n'
+        in Google). <br /><br><br /><font color=\"white\">wwageqijy</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">neynusuru</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">wkzi</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">n</font> <font
+        color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">cipoporj</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">nehpelilq</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">yj</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">ydazuzcor</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">yceavore</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">qokarxukj</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><br><br />B&#8204;T&#8204;C&#8204; ad&#8204;dre&#8204;ss:  14cxPepKjJ8XR5k4u7jskJiqMH2vGFV5WY<br
+        /><br><br /><font color=\"white\">vawypykli</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">aueekx</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">jaapeshmi</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">u</font> <font
+        color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">oberuolau</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">dxypeiuq</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">debaad</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">fexigooui</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">oivotuuq</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">mal</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><br><br />[case-sensitive so copy and paste it]<br /><br><br /><font color=\"white\">paryzfy</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">aceptgico</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">qsabtvuu</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">ip</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">ruurgyui</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">panyvpeo</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">e</font> <font
+        color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">yobiftez</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><font color=\"white\">yywiradra</font>
+        <font color=\"white\">post-jkjhgjf</font> <font color=\"white\">399495</font><br
+        /><font color=\"white\">dxyb</font> <font color=\"white\">post-jkjhgjf</font>
+        <font color=\"white\">399495</font><br /><br /><br><br />if you are wondering
+        about going to the police, look, this message can not be traced back to me.
+        I have taken care of my moves. i am just not looking to charge a fee very
+        much, i wish to be rewarded. message if i do not get the &#8204;bi&#8204;tco&#8204;in&#8204;,
+        i will definately send your video recording to all of your contacts including
+        friends and family, colleagues, etc. However, if i do get paid, i will erase
+        the recording right away. If you really want evidence, reply with Yeah and
+        i will send your video to your 5 contacts. it is a nonnegotiable offer so
+        don't waste my time & yours by replying to this e-mail.<a name=\"more\"></a>\n\n\n<br>\n\n\n<div
+        style=\"text-align:right;\"><a href=\"http://b.hatena.ne.jp/entry/http://patent.seesaa.net/article/463958096.html\"
+        class=\"hatena-bookmark-button\" data-hatena-bookmark-title=\"post-jkjhgjf
+        : 399495\" data-hatena-bookmark-layout=\"standard-balloon\" data-hatena-bookmark-lang=\"ja\"
+        title=\"このエントリーをはてなブックマークに追加\"><img src=\"http://b.st-hatena.com/images/entry-button/button-only@2x.png\"
+        alt=\"このエントリーをはてなブックマークに追加\" width=\"20\" height=\"20\" style=\"border: none;\"
+        /></a><script type=\"text/javascript\" src=\"http://b.st-hatena.com/js/bookmark_button.js\"
+        charset=\"utf-8\" async=\"async\"></script>\n\n<a href=\"https://twitter.com/share\"
+        class=\"twitter-share-button\" data-url=\"http://patent.seesaa.net/article/463958096.html\"
+        data-text=\"post-jkjhgjf : 399495\">Tweet</a>\n<script>!function(d,s,id){var
+        js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+        'script', 'twitter-wjs');</script>\n\n</div>\n<br>\n\n<script type=\"text/javascript\"><!--\ngoogle_ad_client
+        = \"ca-pub-8244292477613452\";\n/* ぐんざぶろう２ */\ngoogle_ad_slot = \"7282984358\";\ngoogle_ad_width
+        = 300;\ngoogle_ad_height = 250;\n//-->\n</script>\n<script type=\"text/javascript\"\nsrc=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n</script>\n\n\n\n\n\n\n\n\n\n
+        \n\n\n\n\n\n<div class=\"bookmark\" data-url=\"http://patent.seesaa.net/article/463958096.html\"
+        data-subject=\"post-jkjhgjf : 399495\"></div>\n\n\n<div class=\"listCategoryArticle\">\n【発明の仕方の最新記事】<br
+        />\n<ul>\n\n<li><a href=\"http://patent.seesaa.net/article/463419472.html?seesaa_related=category\">あなたのパスワードが侵害されました
+        po..</a></li>\n\n<li><a href=\"http://patent.seesaa.net/article/463064986.html?seesaa_related=category\">Investment
+        Funds=</a></li>\n\n<li><a href=\"http://patent.seesaa.net/article/462751559.html?seesaa_related=category\">オークリー(oakley)サングラス今日..</a></li>\n\n</ul>\n</div>\n\n</div>\n<div
+        class=\"posted\">posted by INUKITI at 04:39\n\n\n\n\n| <a href=\"http://patent.seesaa.net/category/598396-1.html\">発明の仕方</a>\n|
+        <a href=\"http://blog.seesaa.jp/cms/fan/regist/input?fan_blog_name=patent\"
+        title=\"このブログの読者になる\"><img src=\"http://blog.seesaa.jp/img/fan_read.gif\"
+        alt=\"このブログの読者になる\" border=\"0\" /></a>\n| <a href=\"http://blog.seesaa.jp/cms/home/switch?goto=/cms/fan/blog_reader/list%3Fblog_id=183762\"
+        title=\"更新情報をチェックする\"><img src=\"http://blog.seesaa.jp/img/fan_received.gif\"
+        alt=\"更新情報をチェックする\" border=\"0\" /></a>\n</div>\n\n</div>\n\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<script
+        type=\"text/javascript\" language=\"JavaScript\" charset=\"utf-8\" src=\"http://blog.seesaa.jp/js/bl-bookmarks.js\"></script>\n<script
+        type=\"text/javascript\" language=\"javascript\" charset=\"utf-8\">\nvar bookmark_services
+        = \",hthSP,twhSP,fbhSP,lihSP\".split('-').join('').split(\",\");\nvar seesaaBookmarks
+        = new blBookmarks({bookmark_services:bookmark_services, blog_url:\"http://blog.seesaa.jp\"});\nseesaaBookmarks.exe();\n</script>\n\n<!--
+        /Content -->\n\n\n\n\n</div>\n\n\n\n<div id=\"footer\">\n<div class=\"powered\">\n\n<table
+        border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n<tr>\n<td><a href=\"http://blog.seesaa.jp/tag\"><img
+        src=\"http://blog.seesaa.jp/img/seesaablog.gif\" width=\"138\" height=\"22\"
+        border=\"0\" alt=\"Powered by Seesaa\" /></a></td>\n</tr> \n<tr>\n<td><div
+        style=\"background-color:#9C9C9C;text-align:center;font-size:10px;padding:3px;margin:0px;\"><a
+        href=\"http://blog.seesaa.jp/tag\" style=\"color:#FFF;\">Seesaa</a><a href=\"http://blog.seesaa.jp\"
+        style=\"color:#FFF;\">ブログ</a></div></td>\n</tr>\n</table>\n</div>\n\n\n\n</div>\n\n</div>\n<!--shinobi1-->\n<script
+        src=\"http://j4.shinobi.jp/ufo/034019218\"></script>\n<noscript><a href=\"http://x4.shinobi.jp/bin/gg?034019218\"
+        target=\"_blank\">\n<img src=\"http://x4.shinobi.jp/bin/ll?034019218\" border=0></a><br>\n<a
+        style=\"font-size:80%\" href=\"http://www.ninja-systems.com/\" target=\"_blank\">ホームページ制作</a></noscript>\n<!--shinobi2-->\n\n<!--
+        common footer -->\n<!-- --><script type=\"text/javascript\">\nif(screen.width
+        > 768) {\ndocument.write('<scr' + 'ipt type=\"text/javascript\" src=\"http://sh.adingo.jp/?G=1000032261&guid=ON\"></scr'
+        + 'ipt>');\n} else {\ndocument.write('<scr' + 'ipt type=\"text/javascript\"
+        src=\"http://sh.adingo.jp/?G=1000032260&guid=ON\"></scr' + 'ipt>');\n\n}\n</script>\n\n<script
+        type=\"text/javascript\">\n//<![CDATA[\n\nif(screen.width > 768) {\nif(typeof(adingoFluct)!=\"undefined\")
+        adingoFluct.showAd('1000050023');\nif(typeof(adingoFluct)!=\"undefined\")
+        adingoFluct.showAd('1000050024');\n}\n\nelse {\nif(typeof(adingoFluct)!=\"undefined\")
+        adingoFluct.showAd('1000050021');\nif(typeof(adingoFluct)!=\"undefined\")
+        adingoFluct.showAd('1000050022');\n\n}\n//]]>\n</script>\n<script type=\"text/javascript\">\nif
+        (typeof(window['adingoFluctCrypt']) === 'undefined') {\n  var AdingoFluctCrypt
+        = function() {\n    this.cryptKey = 'fluct';\n    this.cookieChars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789%./_';\n
+        \ };\n  AdingoFluctCrypt.prototype = {\n    crypt : function(s, enc) {\n      var
+        chars = this.cookieChars;\n      var key = escape(this.cryptKey);\n      var
+        t = \"\"; var c, n, m;\n      for(var i = 0; i < s.length; i++) {\n        c
+        = s.charAt(i);\n        n = chars.indexOf(c);\n        if (n >= 0) {\n          m
+        = chars.indexOf(key.charAt(i%key.length));\n          if (enc) n = n + m;
+        else n = n - m;\n          if (n < 0) n = n + chars.length;\n          if
+        (n >= chars.length) n = n - chars.length;\n          c = chars.charAt(n);\n
+        \       }\n        t += c;\n      }\n      return t;\n    },\n    encrypt
+        : function(s) { return escape(this.crypt(s, 1)); },\n    decrypt : function(s)
+        { return this.crypt(unescape(s), 0); }\n  };\n  AdingoFluctCrypt.prototype['encrypt']
+        = AdingoFluctCrypt.prototype.encrypt;\n  AdingoFluctCrypt.prototype['decrypt']
+        = AdingoFluctCrypt.prototype.decrypt;\n  window['adingoFluctCrypt'] = new
+        AdingoFluctCrypt();\n}\nif (typeof(window['adingoFluctRefererTracking']) ===
+        'undefined') {\n  var AdingoFluctRefererTracking = function() {\n    this.output_flg
+        = false;\n    this.slist = ['6IU8qJBKGF5iPD',\n                  'JBKGF5iT6Y',\n
+        \                 '_FH_T.iPD',\n                  'O/RCLcGV',\n                  'JLQIMFiUFL',\n
+        \                 'IVU/TLiS6',\n                  'P.X%25PFJOZTID',\n                  '.RXIR9iT6Y',\n
+        \                 'NTcZS9TY-ZJiPD',\n                  'NTcZOFETBdJ-c2Y7EKFqEBZ',\n
+        \                 'NTcZcE--8IB_h2k6XIKnXeGIiPCr.U',\n                  'NTcZJEQG-YL/UZHFJ',\n
+        \                 'NTcZX_BYHF-QU/dFiICR',\n                  'BFYGKOiICR',\n
+        \                 'NTcZcE--_nANl3I7.kNi6bo2X.JKKfUbIVJHFr.U',\n                  '6KKKLcPU/Z/LrCW.',\n
+        \                 'NTcZND.Y9ZE-T2a_iICR',\n                  'NTcZH5II%25TD.ZCR9iT6Y'];\n
+        \   this.dlist = ['JBKGF5iT6Y',\n                  '_FH_T.iPD',\n                  'O/RCLcGV',\n
+        \                 'JLQIMFiUFL',\n                  'IVU/TLiS6',\n                  'P.X%25PFJOZTID',\n
+        \                 '.RXIR9iT6Y'];\n    this.cookie_frequency_name = 'adingo_fluct_frequency';\n
+        \   this.frequency_time = 1000 * 3600 * 6; // 12 hour\n  }\n  AdingoFluctRefererTracking.prototype
+        = {\n    getCookie : function(name) {\n      var value = null;\n      var
+        cookiename = name + '=';\n      var allcookies = document.cookie;\n      var
+        position = allcookies.indexOf(cookiename);\n      if (position !== -1) {\n
+        \       var startindex = position + cookiename.length;\n        var endindex
+        = allcookies.indexOf(';', startindex);\n        if (endindex == -1) {\n          endindex
+        = allcookies.length;\n        }\n        value = decodeURIComponent(allcookies.substring(startindex,
+        endindex));\n      }\n      return value;\n    },\n    initialize : function()
+        {\n      var cookie_domain = '';\n      for  (var i = 0; i < this.slist.length;
+        i++) {\n        if (document.referrer.indexOf(adingoFluctCrypt.decrypt(this.slist[i]))
+        !== -1) {\n          var frequency = this.getCookie(this.cookie_frequency_name);\n
+        \         if (frequency !== 'true') {\n            for (var j = 0; j < this.dlist.length;
+        j++) {\n              var domain = adingoFluctCrypt.decrypt(this.dlist[j]);\n
+        \             if (document.domain.indexOf(domain) !== -1) {\n                cookie_domain
+        = 'domain=.' + domain + ';';\n                break;\n              }\n            }\n
+        \           var expire = new Date();\n            expire.setTime( expire.getTime()
+        + this.frequency_time );\n            document.cookie = this.cookie_frequency_name
+        + '=' + encodeURIComponent('true') + ';' + cookie_domain + 'path=/; expires='
+        + expire.toUTCString();\n            this.output_flg = true;\n          }\n
+        \         break;\n        }\n      }\n    }\n  };\n  window['adingoFluctRefererTracking']
+        = new AdingoFluctRefererTracking();\n}\nwindow['adingoFluctRefererTracking'].initialize();\n</script>\n<script
+        type=\"text/javascript\">\nif (adingoFluctRefererTracking.output_flg) {\n
+        \ document.write('<scr' + 'ipt type=\"text/javascript\" src=\"https://cdn-fluct.sh.adingo.jp/f.js?G=1000062764&guid=ON\"></scr'
+        + 'ipt>');\n}\n</script>\n<script type=\"text/javascript\">\nif (adingoFluctRefererTracking.output_flg)
+        {\n  if(typeof(adingoFluct)!=\"undefined\") adingoFluct.showAd('1000094089');\n
+        \ if(typeof(adingoFluct)!=\"undefined\") adingoFluct.showAd('1000094090');\n}\n</script>\n<div
+        style=\"display:none;\">\n\n\n</div>\n<script type=\"text/javascript\">\n(function(w,d,s){\nvar
+        f=d.getElementsByTagName(s)[0],j=d.createElement(s);\nj.async=true;j.src='//dmp.im-apps.net/js/7262/0001/itm.js';\nf.parentNode.insertBefore(j,
+        f);\n})(window,document,'script');\n</script>\n<script type=\"text/javascript\"
+        src=\"http://t.seesaa.net/analytics-seesaa-net.js?v=20150901&tid=UA-53911882-1&page_id=patent%2Farticle%2F463958096&page_info=::25::0&page_words=\"></script></body>\n</html>\n"
+    http_version: 
+  recorded_at: Sun, 03 Feb 2019 22:22:49 GMT
+recorded_with: VCR 4.0.0

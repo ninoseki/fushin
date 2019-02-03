@@ -21,26 +21,26 @@ http_interactions:
       Content-Type:
       - text/html; charset=Shift_JIS
       Content-Length:
-      - '35870'
+      - '36027'
       Connection:
       - close
       Vary:
       - Accept-Encoding
       - User-Agent
       Date:
-      - Thu, 31 Jan 2019 10:22:15 GMT
+      - Sun, 03 Feb 2019 22:22:48 GMT
       Server:
       - Apache
       Last-Modified:
-      - Thu, 31 Jan 2019 10:18:00 GMT
+      - Sun, 03 Feb 2019 22:22:24 GMT
       Etag:
-      - '"580be57478600"'
+      - '"58104cf75a800"'
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 9298355c8c6812ec8008861ddfdb4028.cloudfront.net (CloudFront)
+      - 1.1 12e33ec745a6a47867fde0aaabc214ee.cloudfront.net (CloudFront)
       X-Amz-Cf-Id:
-      - ZiPQB5XWBGvtfqEYdq83Q6RC-TI-5CNwe6pC4MIsClSRgPMLAcxU7w==
+      - NnLjdkM9iIvdmSWzE3UUl9bpyER0hIATU7aR5RbNB43JbvPuUyHFBQ==
     body:
       encoding: Shift_JIS
       string: "<?xml version=\"1.0\" encoding=\"Shift_JIS\"?>\n<!DOCTYPE html PUBLIC
@@ -93,7 +93,7 @@ http_interactions:
         />\n<a href=\"http://patent.seesaa.net/category/605348-1.html\">商品開発</a>(10)<br
         />\n<a href=\"http://patent.seesaa.net/category/576065-1.html\">企業内発明家</a>(214)<br
         />\n<a href=\"http://patent.seesaa.net/category/596792-1.html\">特許いろいろ</a>(236)<br
-        />\n<a href=\"http://patent.seesaa.net/category/598396-1.html\">発明の仕方</a>(196)<br
+        />\n<a href=\"http://patent.seesaa.net/category/598396-1.html\">発明の仕方</a>(197)<br
         />\n<a href=\"http://patent.seesaa.net/category/599463-1.html\">世間の特許話し</a>(214)<br
         />\n<a href=\"http://patent.seesaa.net/category/599544-1.html\">【あ行】</a>(4)<br
         />\n<a href=\"http://patent.seesaa.net/category/599547-1.html\">【か行】</a>(12)<br
@@ -146,7 +146,9 @@ http_interactions:
         href=\"/index20.rdf\">RSS 2.0</a><br />\n</div>\n\n\n\n</div>\n\n\n<div id=\"content\">\n\n\n<!--
         Content -->\n\n\n<div class=\"navi\">\n<a href=\"http://patent.seesaa.net/article/463736748.html\">&lt;&lt;</a>
         <a href=\"http://patent.seesaa.net/article/463736748.html\">Open up and you
-        will find Surprise on New Year Day!</a> | \n<a href=\"http://patent.seesaa.net/\">TOP</a>\n\n</div>\n\n\n\n\n\n\n<div
+        will find Surprise on New Year Day!</a> | \n<a href=\"http://patent.seesaa.net/\">TOP</a>\n
+        | <a href=\"http://patent.seesaa.net/article/463958096.html\">post-jkjhgjf
+        : 399495</a> <a href=\"http://patent.seesaa.net/article/463958096.html\">&gt;&gt;</a>\n</div>\n\n\n\n\n\n\n<div
         class=\"blog\">\n\n<!--\n<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
         \        xmlns:Trackback=\"http://madskills.com/public/xml/rss/module/Trackback/\"\n
         \        xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n<rdf:Description\n
@@ -459,5 +461,5 @@ http_interactions:
         \ if(typeof(adingoFluct)!=\"undefined\") adingoFluct.showAd('1000094090');\n}\n</script>\n<div
         style=\"display:none;\">\n\n\n</div>\n</body>\n</html>\n"
     http_version: 
-  recorded_at: Thu, 31 Jan 2019 10:22:15 GMT
+  recorded_at: Sun, 03 Feb 2019 22:22:48 GMT
 recorded_with: VCR 4.0.0
