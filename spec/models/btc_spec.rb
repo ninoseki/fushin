@@ -9,9 +9,9 @@ RSpec.describe Fushin::Models::BTC do
     end
   end
 
-  describe "#blockchain_link" do
-    it "should return a link to blockchain.com" do
-      expect(subject.blockchain_link).to eq("https://www.blockchain.com/btc/address/145SmyE7DBEQExsnXZobojbQqr5UdgbCHh")
+  describe "#bitcon_abuse_link" do
+    it "should return a link to bitcoinabuse.com" do
+      expect(subject.bitcoin_abuse_link).to eq("https://www.bitcoinabuse.com/reports/145SmyE7DBEQExsnXZobojbQqr5UdgbCHh")
     end
   end
 

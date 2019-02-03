@@ -12,18 +12,18 @@ module Fushin
         "BTC: #{address}"
       end
 
-      def blockchain_link
-        "https://www.blockchain.com/btc/address/#{address}"
+      def bitcoin_abuse_link
+        "https://www.bitcoinabuse.com/reports/#{address}"
       end
 
       def to_attachements
         [
           {
-            fallback: "blockchain.com link",
+            fallback: "bitcoinabuse.com link",
             title: title,
-            title_link: blockchain_link,
-            footer: "blockchain.com",
-            footer_icon: "http://www.google.com/s2/favicons?domain=blockchain.com"
+            title_link: bitcoin_abuse_link,
+            footer: "bitcoinabuse.com",
+            footer_icon: "http://www.google.com/s2/favicons?domain=bitcoinabuse.com"
           }
         ]
       end
