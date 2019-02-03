@@ -33,6 +33,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "webmock", "~> 3.5"
 
   spec.add_dependency "charlock_holmes", '~> 0.7'
+  spec.add_dependency "embiggen", "~> 1.5"
   spec.add_dependency "http", "~> 4.0"
   spec.add_dependency "lightly", "~> 0.3"
   spec.add_dependency "oga", "~> 2.15"
