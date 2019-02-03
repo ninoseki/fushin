@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-RSpec.describe Fushin::Models::Website do
+RSpec.describe Fushin::Models::Website, :vcr do
   subject { Fushin::Models::Website.new("https://github.com") }
 
   describe "#domain" do
@@ -24,6 +24,16 @@ RSpec.describe Fushin::Models::Website do
   describe "#to_attachements" do
     it "should return an Array" do
       expect(subject.to_attachements).to be_an(Array)
+    end
+  end
+
+  context "when given a shortened URL" do
+    subject { Fushin::Models::Website.new("http://t.cn/EqZfINF?50rLrb") }
+
+    describe "#uri" do
+      it "should return expanded URL" do
+        expect(subject.uri.to_s).to eq("http://www.bestsafestore.ru/")
+      end
     end
   end
 end

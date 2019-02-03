@@ -1,0 +1,38 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://t.cn/EqZfINF?50rLrb
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 302
+      message: Found
+    headers:
+      Date:
+      - Sun, 03 Feb 2019 00:26:45 GMT
+      Content-Type:
+      - text/html;charset=UTF-8
+      Content-Length:
+      - '209'
+      Connection:
+      - keep-alive
+      Set-Cookie:
+      - aliyungf_tc=AQAAAFa7EDfTCgAAPJLFcYwa8pMUULmK; Path=/; HttpOnly
+      Server:
+      - nginx
+      Location:
+      - http://www.bestsafestore.ru
+    body:
+      encoding: UTF-8
+      string: ''
+    http_version: 
+  recorded_at: Sun, 03 Feb 2019 00:26:45 GMT
+recorded_with: VCR 4.0.0

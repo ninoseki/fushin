@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require "embiggen"
 require "digest/sha2"
 require "uri"
 
@@ -8,7 +9,8 @@ module Fushin
     class Website < Model
       attr_reader :url
       def initialize(url)
-        @url = url
+        uri = Embiggen::URI(url)
+        @url = uri.expand.to_s
       end
 
       def uri
