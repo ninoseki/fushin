@@ -12,7 +12,7 @@ A malicious blog posts monitoring tool.
 - [x] Extract IoCs(BTC, URL) from a blog post
 - [x] Post extracted IoCs to Slack (or STDOUT) with enrichment
 - [x] Attachment handling
-  - Scan a URL via Hybrid Analysis
+  - Scan a URL on Hybrid Analysis
 
 ## Supported blog types
 
@@ -27,6 +27,14 @@ A malicious blog posts monitoring tool.
 ```shell
 gem install fushin
 ```
+
+## Configuration
+
+Please set the following environment variables:
+
+- `SLACK_WEBHOOK_URL`: Slack Webhook URL
+- `SLACK_CHANNEL`: Slack channel name
+- `HA_API_KEY`: Hybrid Analysis API key
 
 ## Usage
 
