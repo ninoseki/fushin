@@ -8,7 +8,7 @@ module Fushin
       end
 
       def main_cleanup_selectors
-        %w(script iframe .listCategoryArticle)
+        %w(script iframe .listCategoryArticle font)
       end
     end
   end
