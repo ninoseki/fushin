@@ -1,5 +1,6 @@
 # Fushin
 
+[![Gem Version](https://badge.fury.io/rb/fushin.svg)](https://badge.fury.io/rb/fushin)
 [![Build Status](https://travis-ci.org/ninoseki/fushin.svg?branch=master)](https://travis-ci.org/ninoseki/fushin)
 [![Coverage Status](https://coveralls.io/repos/github/ninoseki/fushin/badge.svg?branch=master)](https://coveralls.io/github/ninoseki/fushin?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/91a8eb8d1fcf428294661e9d12b03283)](https://www.codacy.com/app/ninoseki/fushin)
