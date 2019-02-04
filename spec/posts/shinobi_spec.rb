@@ -23,7 +23,7 @@ RSpec.describe Fushin::Posts::Shinobi, :vcr do
     it "should return an Array" do
       links = subject.links
       expect(links).to be_an(Array)
-      expect(links.length).to eq(0)
+      expect(links.length).to eq(1)
     end
   end
 

@@ -35,19 +35,19 @@ module Fushin
       end
 
       def urls
-        @urls ||= main.text.scan(UrlRegex.get(scheme_required: true, mode: :parsing)).uniq.map do |url|
+        @urls ||= (urls_in_text + links).uniq.map do |url|
           next if whitelisted_domain?(url)
 
           Models::Website.new(url)
-        end.compact
+        end.compact.uniq(&:normalized_url)
+      end
+
+      def urls_in_text
+        @urls_in_text ||= main.text.scan(UrlRegex.get(scheme_required: true, mode: :parsing))
       end
 
       def links
-        @links ||= main.css("a").map { |a| a.get("href") }.compact.uniq.map do |url|
-          next if whitelisted_domain?(url)
-
-          Models::Website.new(url)
-        end.compact
+        @links ||= main.css("a").map { |a| a.get("href") }.compact
       end
 
       def attachements

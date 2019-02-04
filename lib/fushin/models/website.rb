@@ -25,12 +25,12 @@ module Fushin
         "https://urlscan.io/domain/#{domain}"
       end
 
-      def url_for_vt
-        uri.path.empty? ? "#{url}/" : url
+      def normalized_url
+        @normalized_url ||= uri.path.empty? ? "#{url}/" : url
       end
 
       def vt_link
-        "https://www.virustotal.com/#/url/#{Digest::SHA256.hexdigest(url_for_vt)}"
+        "https://www.virustotal.com/#/url/#{Digest::SHA256.hexdigest(normalized_url)}"
       end
 
       def to_attachements
