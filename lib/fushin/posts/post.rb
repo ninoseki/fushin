@@ -28,21 +28,14 @@ module Fushin
         end.first
       end
 
-      def main_text
-        @main_text ||= [].tap do |out|
-          detection = CharlockHolmes::EncodingDetector.detect(main.text)
-          out << CharlockHolmes::Converter.convert(main.text, detection[:encoding], "UTF-8")
-        end.first
-      end
-
       def btcs
-        @btcs ||= main_text.scan(/\b[13][a-km-zA-HJ-NP-Z0-9]{26,33}\b/).uniq.map do |address|
+        @btcs ||= main.text.scan(/\b[13][a-km-zA-HJ-NP-Z0-9]{26,33}\b/).uniq.map do |address|
           Models::BTC.new(address)
         end
       end
 
       def urls
-        @urls ||= main_text.scan(UrlRegex.get(scheme_required: true, mode: :parsing)).uniq.map do |url|
+        @urls ||= main.text.scan(UrlRegex.get(scheme_required: true, mode: :parsing)).uniq.map do |url|
           next if whitelisted_domain?(url)
 
           Models::Website.new(url)
@@ -90,7 +83,8 @@ module Fushin
         res = HTTP.get(url)
         return nil unless res.code == 200
 
-        res.body.to_s
+        detection = CharlockHolmes::EncodingDetector.detect(res.body.to_s)
+        CharlockHolmes::Converter.convert(res.body.to_s, detection[:encoding], "UTF-8")
       end
     end
   end
