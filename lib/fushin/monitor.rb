@@ -14,7 +14,6 @@ module Fushin
         attachements = [].tap do |out|
           out << item.post.btcs.map(&:to_attachements)
           out << item.post.urls.map(&:to_attachements)
-          out << item.post.links.map(&:to_attachements)
           out << item.post.attachements.map(&:to_attachements)
         end.flatten
         attachements << { text: "IoC is not found." } if attachements.empty?

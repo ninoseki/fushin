@@ -16,7 +16,7 @@ RSpec.describe Fushin::Posts::Seesaa, :vcr do
       it "should return an Array" do
         urls = subject.urls
         expect(urls).to be_an(Array)
-        expect(urls.length).to eq(0)
+        expect(urls.length).to eq(2)
       end
     end
 
@@ -24,7 +24,6 @@ RSpec.describe Fushin::Posts::Seesaa, :vcr do
       it "should return an Array" do
         links = subject.links
         expect(links).to be_an(Array)
-        expect(links.length).to eq(2)
       end
     end
   end
@@ -52,7 +51,6 @@ RSpec.describe Fushin::Posts::Seesaa, :vcr do
       it "should return an Array" do
         links = subject.links
         expect(links).to be_an(Array)
-        expect(links.length).to eq(0)
       end
     end
   end
