@@ -18,10 +18,12 @@ module Fushin
         end.flatten
         attachements << { text: "IoC is not found." } if attachements.empty?
         Notifier.notify("#{item.title} (#{item.link})", attachements)
-
-        Cache.save(item.link, true)
       rescue StandardError => e
-        puts "#{e.class} (#{e}) is happened during processing #{item.link}"
+        attachements = []
+        attachements << { text: "#{e.class} (#{e}) is happened during processing." }
+        Notifier.notify("#{item.title} (#{item.link})", attachements)
+      ensure
+        Cache.save(item.link, true)
       end
     end
 
