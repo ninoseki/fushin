@@ -29,7 +29,7 @@ module Fushin
       end
 
       def btcs
-        @btcs ||= main.text.scan(/[13][a-km-zA-HJ-NP-Z0-9]{26,33}/).uniq.map do |address|
+        @btcs ||= main.text.scan(/\b[13][a-km-zA-HJ-NP-Z0-9]{26,33}\b/).uniq.map do |address|
           Models::BTC.new(address)
         end
       end
