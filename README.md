@@ -19,6 +19,7 @@ A malicious blog posts monitoring tool.
 
 - jugem.jp
 - kikey.net
+- sblo.jp
 - seesaa.net
 - shinobi.jp
 - teacup.com
