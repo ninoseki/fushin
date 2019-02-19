@@ -2,4 +2,5 @@
 
 module Fushin
   class NoMachingPostsError < StandardError; end
+  class HAResponseError < StandardError; end
 end

@@ -1,0 +1,359 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://hamaduru.sblo.jp/article/185576413.html
+    body:
+      encoding: UTF-8
+      string: ''
+    headers:
+      Connection:
+      - close
+      Host:
+      - hamaduru.sblo.jp
+      User-Agent:
+      - http.rb/4.0.3
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Tue, 19 Feb 2019 01:58:44 GMT
+      Server:
+      - Apache
+      Last-Modified:
+      - Tue, 19 Feb 2019 01:52:39 GMT
+      Etag:
+      - '"582357efde7c0"'
+      Content-Length:
+      - '31412'
+      Content-Type:
+      - text/html; charset=Shift_JIS
+      Connection:
+      - close
+    body:
+      encoding: Shift_JIS
+      string: "<?xml version=\"1.0\" encoding=\"Shift_JIS\"?>\n<!DOCTYPE html PUBLIC
+        \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"ja\" lang=\"ja\">\n<head>\n<meta
+        http-equiv=\"Content-Type\" content=\"text/html; charset=Shift_JIS\" />\n<title>:20190218能登島の料理旅館はまづる</title>\n<meta
+        name=\"description\" content=\"お部屋から朝日が見える、豊かな海の香りがする料理宿はまづるのブログ\" />\n<meta
+        name=\"keywords\" content=\"能登島,民宿,旅館,温泉,イルカ,料理,板前,朝日,水族館,能登 \" />\n<meta
+        http-equiv=\"Content-Style-Type\" content=\"text/css\" />\n<meta http-equiv=\"Content-Script-Type\"
+        content=\"text/javascript\" />\n<link rel=\"stylesheet\" href=\"http://hamaduru.sblo.jp/styles-index.css\"
+        type=\"text/css\" />\n<link rel=\"alternate\" href=\"http://hamaduru.sblo.jp/index.rdf\"
+        type=\"application/rss+xml\" title=\"RSS\" />\n\n</head>\n<body><script type=\"text/javaScript\">seesaa_site_id
+        = 'hamaduru'; seesaa_floating = false;</script>\n<div id=\"iphone-link\" style=\"display:none;
+        font-family: sans-serif; padding: 10px 0; width: 100%; color: #FFF; background:
+        #333; min-height: 60px; line-height: 40px; box-sizing: border-box; font-size:
+        24px; font-weight: 700; text-decoration:none;\"><a href=\"javascript:document.cookie='force_pc=0;
+        max-age=15768000; path=/'; document.cookie='force_sp=1; max-age=15768000;
+        path=/'; document.location='/?from_pc'\" style=\"display: block; width: 100%;
+        text-decoration: none; color: #FFF;\">スマートフォン専用ページを表示</a></div>\n<script type=\"text/javascript\"><!--\nif
+        ((0 <= navigator.userAgent.indexOf('iPhone')) || (0 <= navigator.userAgent.indexOf('Android')))
+        { document.getElementById('iphone-link').style.display = 'block'; }\n//--></script>\n\n\n<div
+        id=\"container\">\n<script type=\"text/javascript\" language=\"JavaScript\"
+        src=\"http://blog.sakura.ne.jp/contents/js/ad_plugin.js\"></script>\n<div
+        id=\"banner\">\n<h1><a href=\"http://ryouri.net/\" accesskey=\"1\">能登島の料理旅館はまづる</a></h1>\n\n<span
+        class=\"description\">お部屋から朝日が見える、豊かな海の香りがする<br />料理宿はまづるのブログ</span>\n\n\n\n</div>\n\n\n<div
+        id=\"links-left\">\n<div class=\"sidetitle\">料理旅館はまづる</div>\n<div class=\"side\">\n<a
+        href=\"http://www.hamaduru.jp/\">料理旅館 はまづる</a><br />\n〒926-0216 石川県七尾市能登島曲町14-1<br
+        />\nTEL：0767-84-8026 ／ FAX：0767-84-8028<br /></div>\n\n<div class=\"sidetitle\">カテゴリ</div>\n<div
+        class=\"side\">\n<a href=\"http://hamaduru.sblo.jp/category/657562-1.html\">能登島　炎の料理人かっちゃん</a>(996)<br
+        />\n<a href=\"http://hamaduru.sblo.jp/category/657565-1.html\">日々これ修行　板前の１日</a>(927)<br
+        />\n<a href=\"http://hamaduru.sblo.jp/category/657566-1.html\">仕入れの舞台裏</a>(930)<br
+        />\n<a href=\"http://hamaduru.sblo.jp/category/657567-1.html\">能登島水族館</a>(898)<br
+        />\n<a href=\"http://hamaduru.sblo.jp/category/657568-1.html\">料理旅館はまづるについて</a>(897)<br
+        />\n<a href=\"http://hamaduru.sblo.jp/category/657569-1.html\">宿泊プラン</a>(912)<br
+        />\n<a href=\"http://hamaduru.sblo.jp/category/657572-1.html\">能登島の観光案内</a>(910)<br
+        />\n<a href=\"http://hamaduru.sblo.jp/category/657574-1.html\">板前の晩御飯、、、、、晩酌のつまみかｗ</a>(920)<br
+        />\n</div>\n\n<div class=\"sidetitle\">検索ボックス</div>\n<div class=\"side\">\n<form
+        method=\"get\" action=\"http://ryouri.net/pages/user/search/\" class=\"sASform\"
+        name=\"form3421624\">\n<table class=\"seesaaArticleSearch\">\n<tr>\n<td colspan=\"5\"><input
+        value=\"\" name=\"keyword\" type=\"text\" size=\"20\" /><br /><input value=\"検索\"
+        type=\"submit\" class=\"input-submit\" /></td>\n</tr>\n</table>\n</form>\n<style
+        type=\"text/css\">\n.seesaaArticleSearch{border-collapse:collapse;overflow:hidden;font-size:12px;text-align:left;}\n.seesaaArticleSearch
+        td{padding:0;}\n.sASform{margin:0;padding:0;}\n</style>\n</div>\n\n<div id=\"calendar\">\n<table
+        border=\"0\" cellspacing=\"0\" cellpadding=\"0\" summary=\"Calendar\">\n\n<caption
+        class=\"calendarhead\"><span class=\"calendarday\"><a href=\"http://hamaduru.sblo.jp/archives/201901-1.html\">&lt;&lt;</a></span>
+        <a href=\"http://hamaduru.sblo.jp/archives/201902-1.html\">2019年02月</a> <span
+        class=\"calendarday\">&gt;&gt;</span></caption>\n<tr>\n<th abbr=\"Sunday\"
+        align=\"center\" class=\"calendarday sunday\">日</th>\n<th abbr=\"Monday\"
+        align=\"center\" class=\"calendarday\">月</th>\n<th abbr=\"Tuesday\" align=\"center\"
+        class=\"calendarday\">火</th>\n<th abbr=\"Wednesday\" align=\"center\" class=\"calendarday\">水</th>\n<th
+        abbr=\"Thursday\" align=\"center\" class=\"calendarday\">木</th>\n<th abbr=\"Friday\"
+        align=\"center\" class=\"calendarday\">金</th>\n<th abbr=\"Saturday\" align=\"center\"
+        class=\"calendarday saturday\">土</th>\n</tr>\n<tr>\n<td align=\"center\" class=\"calendarday
+        sunday\">&nbsp;</td>\n<td align=\"center\" class=\"calendarday\">&nbsp;</td>\n<td
+        align=\"center\" class=\"calendarday\">&nbsp;</td>\n<td align=\"center\" class=\"calendarday\">&nbsp;</td>\n<td
+        align=\"center\" class=\"calendarday\">&nbsp;</td>\n<td align=\"center\" class=\"calendarday\">1</td>\n<td
+        align=\"center\" class=\"calendarday saturday\">2</td>\n\n</tr>\n<tr>\n<td
+        align=\"center\" class=\"calendarday sunday\">3</td>\n<td align=\"center\"
+        class=\"calendarday\">4</td>\n<td align=\"center\" class=\"calendarday\">5</td>\n<td
+        align=\"center\" class=\"calendarday\">6</td>\n<td align=\"center\" class=\"calendarday\">7</td>\n<td
+        align=\"center\" class=\"calendarday\">8</td>\n<td align=\"center\" class=\"calendarday
+        saturday\">9</td>\n\n</tr>\n<tr>\n<td align=\"center\" class=\"calendarday
+        sunday\">10</td>\n<td align=\"center\" class=\"calendarday\">11</td>\n<td
+        align=\"center\" class=\"calendarday\">12</td>\n<td align=\"center\" class=\"calendarday\">13</td>\n<td
+        align=\"center\" class=\"calendarday\">14</td>\n<td align=\"center\" class=\"calendarday\">15</td>\n<td
+        align=\"center\" class=\"calendarday saturday\">16</td>\n\n</tr>\n<tr>\n<td
+        align=\"center\" class=\"calendarday sunday\">17</td>\n<td align=\"center\"
+        class=\"calendarday calendarday-a\"><a href=\"http://hamaduru.sblo.jp/archives/20190218.html\">18</a></td>\n<td
+        align=\"center\" class=\"calendarday\">19</td>\n<td align=\"center\" class=\"calendarday\">20</td>\n<td
+        align=\"center\" class=\"calendarday\">21</td>\n<td align=\"center\" class=\"calendarday\">22</td>\n<td
+        align=\"center\" class=\"calendarday saturday\">23</td>\n\n</tr>\n<tr>\n<td
+        align=\"center\" class=\"calendarday sunday\">24</td>\n<td align=\"center\"
+        class=\"calendarday\">25</td>\n<td align=\"center\" class=\"calendarday\">26</td>\n<td
+        align=\"center\" class=\"calendarday\">27</td>\n<td align=\"center\" class=\"calendarday\">28</td>\n<td
+        align=\"center\" class=\"calendarday\">&nbsp;</td>\n<td align=\"center\" class=\"calendarday
+        saturday\">&nbsp;</td>\n\n</tr>\n</table>\n</div>\n\n<div class=\"sidetitle\">最近の記事</div>\n<div
+        class=\"side\">\n(02/18)<a href=\"http://hamaduru.sblo.jp/article/185576641.html\">券類発注書</a><br
+        />\n(02/18)<a href=\"http://hamaduru.sblo.jp/article/185576639.html\">20190218</a><br
+        />\n(02/18)<a href=\"http://hamaduru.sblo.jp/article/185576632.html\">2月分</a><br
+        />\n(02/18)<a href=\"http://hamaduru.sblo.jp/article/185576631.html\">(修正依頼）</a><br
+        />\n(02/18)<a href=\"http://hamaduru.sblo.jp/article/185576629.html\">出荷明細添付</a><br
+        />\n</div>\n\n<div class=\"sidetitle\">最近のコメント</div>\n<div class=\"side\">\n<a
+        href=\"http://hamaduru.sblo.jp/article/180906961.html#comment\">042557 【公共料金請求書データ送付の件】</a>
+        by  (09/07)<br />\n<a href=\"http://hamaduru.sblo.jp/article/180906958.html#comment\">064356
+        【公共料金請求書データ送付の件】</a> by  (09/07)<br />\n<a href=\"http://hamaduru.sblo.jp/article/180906963.html#comment\">954160
+        【公共料金請求書データ送付の件】</a> by  (09/07)<br />\n<a href=\"http://hamaduru.sblo.jp/article/180907094.html#comment\">884679
+        【公共料金請求書データ送付の件】</a> by  (09/07)<br />\n<a href=\"http://hamaduru.sblo.jp/article/180906961.html#comment\">042557
+        【公共料金請求書データ送付の件】</a> by  (09/07)<br />\n</div>\n\n<div class=\"sidetitle\">最近のトラックバック</div>\n<div
+        class=\"side\">\n<a href=\"http://ryouri.net/article/33835434.html#trackback\">ろあん到着</a>
+        by <a href=\"http://www.point-x.jp/\" target=\"_blank\">ポイントエックス</a>(07/04)<br
+        />\n<a href=\"http://ryouri.net/article/33835434.html#trackback\">ろあん到着</a>
+        by <a href=\"http://rj4dk4mf.blog117.fc2.com/blog-entry-97.html\" target=\"_blank\">素人動画ドットコム</a>(05/18)<br
+        />\n<a href=\"http://ryouri.net/article/33835434.html#trackback\">ろあん到着</a>
+        by <a href=\"http://rj4dk4mf.blog117.fc2.com/blog-entry-55.html\" target=\"_blank\">素人動画ドットコム</a>(03/21)<br
+        />\n<a href=\"http://ryouri.net/article/33835434.html#trackback\">ろあん到着</a>
+        by <a href=\"http://www.bomber-t.jp/\" target=\"_blank\">池袋ボンバー</a>(02/21)<br
+        />\n<a href=\"http://ryouri.net/article/35216118.html#trackback\">読売新聞取材</a>
+        by <a href=\"http://blog.plaync.jp/j02k1uiq\" target=\"_blank\">走る街の記者コーちゃん</a>(02/09)<br
+        />\n</div>\n\n<div class=\"sidetitle\">過去ログ</div>\n<div class=\"side\">\n<a
+        href=\"/archives/201902-1.html\">2019年02月</a>(13)<br />\n<a href=\"/archives/201812-1.html\">2018年12月</a>(6)<br
+        />\n<a href=\"/archives/201811-1.html\">2018年11月</a>(8)<br />\n<a href=\"/archives/201810-1.html\">2018年10月</a>(27)<br
+        />\n<a href=\"/archives/201808-1.html\">2018年08月</a>(32)<br />\n<a href=\"/archives/201807-1.html\">2018年07月</a>(39)<br
+        />\n<a href=\"/archives/201806-1.html\">2018年06月</a>(97)<br />\n<a href=\"/archives/201805-1.html\">2018年05月</a>(68)<br
+        />\n<a href=\"/archives/201804-1.html\">2018年04月</a>(31)<br />\n<a href=\"/archives/201803-1.html\">2018年03月</a>(52)<br
+        />\n<a href=\"/archives/201802-1.html\">2018年02月</a>(29)<br />\n<a href=\"/archives/201801-1.html\">2018年01月</a>(188)<br
+        />\n<a href=\"/archives/201712-1.html\">2017年12月</a>(29)<br />\n<a href=\"/archives/201711-1.html\">2017年11月</a>(188)<br
+        />\n<a href=\"/archives/201710-1.html\">2017年10月</a>(240)<br />\n<a href=\"/archives/201709-1.html\">2017年09月</a>(70)<br
+        />\n<a href=\"/archives/201708-1.html\">2017年08月</a>(25)<br />\n<a href=\"/archives/201707-1.html\">2017年07月</a>(130)<br
+        />\n<a href=\"/archives/201706-1.html\">2017年06月</a>(168)<br />\n<a href=\"/archives/201705-1.html\">2017年05月</a>(70)<br
+        />\n</div>\n\n<div class=\"blogtimes\">\n<img src=\"http://ryouri.net/image/blogtimes-127593.png\"
+        />\n</div>\n\n<div class=\"syndicate\">\n<a href=\"/index.rdf\">RDF Site Summary</a><br
+        />\n<a href=\"/index20.rdf\">RSS 2.0</a><br />\n</div>\n\n\n\n</div>\n\n\n<div
+        id=\"content\">\n\n\n\n<!-- Content -->\n<div class=\"navi\">\n<a href=\"http://hamaduru.sblo.jp/article/185576409.html\">&lt;&lt;</a>
+        <a href=\"http://hamaduru.sblo.jp/article/185576409.html\">修正版</a> | <a href=\"http://hamaduru.sblo.jp/\">TOP</a>\n
+        | <a href=\"http://hamaduru.sblo.jp/article/185576416.html\">2/18送り状No.</a>
+        <a href=\"http://hamaduru.sblo.jp/article/185576416.html\">&gt;&gt;</a></div>\n\n\n<div
+        class=\"blog\">\n\n<!--\n<rdf:RDF xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+        \        xmlns:Trackback=\"http://madskills.com/public/xml/rss/module/Trackback/\"\n
+        \        xmlns:dc=\"http://purl.org/dc/elements/1.1/\">\n<rdf:Description\n
+        \   rdf:about=\"http://hamaduru.sblo.jp/article/185576413.html\"\n    trackback:ping=\"http://blog.sakura.ne.jp/tb/185576413\"\n
+        \   dc:title=\"20190218\"\n    dc:identifier=\"http://hamaduru.sblo.jp/article/185576413.html\"\n
+        \   dc:description=\"18628_92_20190218.XLSいつも大変お世話になっております。先ほどお送りした添付資料が一部間違っておりましたので、修正版を再送いたします。申し訳ございませんでした。どうぞよろしくお願いいたします。*****
+        秘密保持について *****************************この電子メール（添付ファイル等を含む）は、宛先として意図した特定の相手に送信したものであり、秘匿特権の対象になる情報を含んでいます。もし、意図した相手以外の方が受信された場合は、こ..\"\n
+        \   dc:creator=\"能登島の板前さん\"\n    dc:subject=\"能登島水族館\"\n    dc:date=\"2019-02-18T19:43:30+09:00\"\n/>\n</rdf:RDF>\n-->\n<h2
+        class=\"date\">2019年02月18日</h2>\n<div class=\"blogbody\">\n<h3 class=\"title\"><a
+        href=\"http://hamaduru.sblo.jp/article/185576413.html\" class=\"title\">20190218</a></h3>\n<div
+        class=\"text\"><a href=\"http://hamaduru.sakura.ne.jp/sblo_files/hamaduru/image/hamaduru-2019-02-18T19_43_30-1.XLS\">18628_92_20190218.XLS</a><br
+        /><br /><html xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:o=\"urn:schemas-microsoft-com:office:office\"
+        xmlns:w=\"urn:schemas-microsoft-com:office:word\" xmlns:x=\"urn:schemas-microsoft-com:office:excel\"
+        xmlns:m=\"http://schemas.microsoft.com/office/2004/12/omml\" xmlns=\"http://www.w3.org/TR/REC-html40\"><head><meta
+        http-equiv=Content-Type content=\"text/html; charset=iso-2022-jp\"><meta name=Generator
+        content=\"Microsoft Word 14 (filtered medium)\"><style><!--<br />/* Font Definitions
+        */<br />@font-face<br />\t{font-family:\"ＭＳ ゴシック\";<br />\tpanose-1:2 11 6
+        9 7 2 5 8 2 4;}<br />@font-face<br />\t{font-family:\"ＭＳ ゴシック\";<br />\tpanose-1:2
+        11 6 9 7 2 5 8 2 4;}<br />@font-face<br />\t{font-family:\"MS UI Gothic\";<br
+        />\tpanose-1:2 11 6 0 7 2 5 8 2 4;}<br />@font-face<br />\t{font-family:\"ＭＳ
+        Ｐゴシック\";<br />\tpanose-1:2 11 6 0 7 2 5 8 2 4;}<br />@font-face<br />\t{font-family:\"\\@ＭＳ
+        ゴシック\";<br />\tpanose-1:2 11 6 9 7 2 5 8 2 4;}<br />@font-face<br />\t{font-family:\"\\@ＭＳ
+        Ｐゴシック\";<br />\tpanose-1:2 11 6 0 7 2 5 8 2 4;}<br />@font-face<br />\t{font-family:\"\\@MS
+        UI Gothic\";<br />\tpanose-1:2 11 6 0 7 2 5 8 2 4;}<br />/* Style Definitions
+        */<br />p.MsoNormal, li.MsoNormal, div.MsoNormal<br />\t{margin:0mm;<br />\tmargin-bottom:.0001pt;<br
+        />\ttext-align:justify;<br />\ttext-justify:inter-ideograph;<br />\tfont-size:10.5pt;<br
+        />\tfont-family:\"Arial\",\"sans-serif\";}<br />a:link, span.MsoHyperlink<br
+        />\t{mso-style-priority:99;<br />\tcolor:blue;<br />\ttext-decoration:underline;}<br
+        />a:visited, span.MsoHyperlinkFollowed<br />\t{mso-style-priority:99;<br />\tcolor:purple;<br
+        />\ttext-decoration:underline;}<br />span.17<br />\t{mso-style-type:personal;<br
+        />\tfont-family:\"Arial\",\"sans-serif\";<br />\tcolor:windowtext;}<br />span.18<br
+        />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.19<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.20<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.21<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.22<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.23<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.24<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.25<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.26<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.27<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.28<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.29<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.30<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.31<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.32<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.33<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.34<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.35<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.36<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.37<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.38<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.39<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.40<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.41<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.42<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.43<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.44<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.45<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.46<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.47<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.48<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.49<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.50<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.51<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.52<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.53<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.54<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.55<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.56<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.57<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.58<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.59<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.60<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.61<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.62<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.63<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.64<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.65<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.66<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.67<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.68<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.69<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.70<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.71<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.72<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.73<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.74<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.75<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.76<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.77<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.78<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.79<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.80<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.81<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.82<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.83<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.84<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.85<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.86<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.87<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.88<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.89<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.90<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.91<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.92<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.93<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.94<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.95<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.96<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.97<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.98<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.99<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.100<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.101<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.102<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.103<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.104<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.105<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.106<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.107<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.108<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.109<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.110<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.111<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.112<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.113<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.114<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.115<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.116<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.117<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.118<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.119<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.120<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.121<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.122<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.123<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.124<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.125<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.126<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.127<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.128<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.129<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.130<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.131<br />\t{mso-style-type:personal;<br />\tfont-family:\"Arial\",\"sans-serif\";<br
+        />\tcolor:#1F497D;}<br />span.132<br />\t{mso-style-type:personal-reply;<br
+        />\tfont-family:\"Arial\",\"sans-serif\";<br />\tcolor:#1F497D;}<br />MsoChpDefault<br
+        />\t{mso-style-type:export-only;<br />\tfont-size:10.0pt;}<br />@page WordSection1<br
+        />\t{size:612.0pt 792.0pt;<br />\tmargin:99.25pt 30.0mm 30.0mm 30.0mm;}<br
+        />div.WordSection1<br />\t{page:WordSection1;}<br />--></style><!--[if gte
+        mso 9]><xml>\n<o:shapedefaults v:ext=\"edit\" spidmax=\"1026\">\n<v:textbox
+        inset=\"5.85pt,.7pt,5.85pt,.7pt\" />\n</o:shapedefaults></xml><![endif]--><!--[if
+        gte mso 9]><xml>\n<o:shapelayout v:ext=\"edit\">\n<o:idmap v:ext=\"edit\"
+        data=\"1\" />\n</o:shapelayout></xml><![endif]--></head><body lang=JA link=blue
+        vlink=purple style='text-justify-trim:punctuation'><div class=WordSection1><p
+        class=MsoNormal align=left style='text-align:left'><span style='font-family:\"ＭＳ
+        Ｐゴシック\";color:#1F497D'>いつも大変お世話になっております。</span><span lang=EN-US><o:p></o:p></span></p><br><p
+        class=MsoNormal><span style='font-size:10.0pt;font-family:\"ＭＳ ゴシック\";color:#1F497D'>先ほどお送りした添付資料が一部間違っておりましたので、<br>修正版を再送いたします。申し訳ございませんでした。<span
+        lang=EN-US><o:p></o:p></span></span></p><p class=MsoNormal><span lang=EN-US
+        style='font-size:10.0pt;color:#1F497D'></span><span lang=EN-US style='font-size:10.0pt;color:#1F497D'></span><span
+        style='font-size:10.0pt;font-family:\"ＭＳ ゴシック\";color:#1F497D'></span><span
+        lang=EN-US style='font-size:10.0pt;font-family:\"ＭＳ ゴシック\";color:#1F497D'></span><span
+        style='font-size:10.0pt;font-family:\"ＭＳ ゴシック\";color:#1F497D'></span><span
+        style='font-size:10.0pt;font-family:\"ＭＳ ゴシック\";color:#1F497D'><span lang=EN-US><o:p></o:p></span></span></p><p
+        class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D'><o:p></o:p></span></p><p
+        class=MsoNormal><span lang=EN-US style='font-size:10.0pt;color:#1F497D'><o:p></o:p></span></p><br><p
+        class=MsoNormal><span style='font-size:10.0pt;font-family:\"ＭＳ ゴシック\";color:#1F497D'>どうぞよろしくお願いいたします。</span><span
+        lang=EN-US style='font-size:10.0pt;color:#1F497D'><o:p></o:p></span></p><p
+        class=MsoNormal><span lang=EN-US style='font-size:10.0pt'><o:p></o:p></span></p><p
+        class=MsoNormal><span lang=EN-US style='font-size:10.0pt'><o:p></o:p></span></p><p
+        class=MsoNormal align=left style='text-align:left'><span lang=EN-US style='font-size:12.0pt;font-family:\"ＭＳ
+        Ｐゴシック\"'><o:p></o:p></span></p><p class=MsoNormal align=left style='text-align:left'><span
+        style='font-size:10.0pt;font-family:\"MS UI Gothic\"'><span lang=EN-US><br></span><br><span
+        lang=EN-US><br></span><span lang=EN-US><br><br><br>***** </span>秘密保持について <span
+        lang=EN-US>*****************************<br></span>この電子メール（添付ファイル等を含む）は、宛先として意図した特<span
+        lang=EN-US><br></span>定の相手に送信したものであり、秘匿特権の対象になる情報を含<span lang=EN-US><br></span>んでいます。もし、意図した相手以外の方が受信された場合は、こ<span
+        lang=EN-US><br></span>のメールを破棄していただくとともに、このメールについて、一切の開<span lang=EN-US><br></span>示、複写、配布、その他の利用、または記載内容に基づく、いかな<span
+        lang=EN-US><br></span>る行動もされないようにお願いします。<span lang=EN-US> <br>**************************************************</span></span><span
+        lang=EN-US style='font-size:12.0pt;font-family:\"ＭＳ Ｐゴシック\"'><o:p></o:p></span></p><p
+        class=MsoNormal><span lang=EN-US><o:p></o:p></span></p></div></body></html><br
+        clear=\"all\"><a name=\"more\"></a>\n \n\n\n</div>\n<div class=\"posted\">posted
+        by 能登島の板前さん at 19:43| <a href=\"http://hamaduru.sblo.jp/article/185576413.html#comment\">Comment(0)</a>\n\n|
+        <a href=\"http://hamaduru.sblo.jp/article/185576413.html#trackback\">TrackBack(0)</a>\n|
+        <a href=\"http://hamaduru.sblo.jp/category/657567-1.html\">能登島水族館</a>\n</div>\n\n</div>\n\n</div>\n\n\n<div
+        id=\"comments\">\n\n<a name=\"comment\"></a>\n\n<div class=\"comments-head\">この記事へのコメント</div>\n\n<div
+        class=\"comments-head\">コメントを書く</div>\n<form action=\"http://hamaduru.sblo.jp/pages/user/comments2/regist/input\"
+        method=\"post\" name=\"comment-form\">\n<div class=\"comments-body\">\nお名前:
+        <br />\n<input type=\"text\" name=\"article_child__writer\" size=\"50\" value=\"\"
+        /><br />\nメールアドレス: <br />\n<input type=\"text\" name=\"article_child__email\"
+        size=\"50\" value=\"\" /><br />\nホームページアドレス: <br />\n<input type=\"text\"
+        name=\"article_child__homepage\" size=\"50\" value=\"\" /><br />\nコメント: <br
+        />\n<textarea name=\"article_child__body\" rows=\"10\" cols=\"45\"></textarea><br
+        />\n<input type=\"hidden\" name=\"article_child__article_id\" value=\"185576413\"
+        />\n<input type=\"hidden\" name=\"article_id\" value=\"185576413\" />\n<input
+        name=\"need_confirm\" type=\"submit\" class=\"input-submit\"  value=\"確認する\"
+        /><input name=\"posted\" type=\"submit\" class=\"input-submit\"  value=\"書き込む\"
+        />\n</div>\n</form>\n</div>\n\n<div id=\"trackback\">\nこの記事へのトラックバックURL<br
+        />http://blog.sakura.ne.jp/tb/185576413<br />\n\n<hr />\nこの記事へのトラックバック<br
+        />\n</div>\n\n\n<div id=\"balloonBox\"></div>\n<script type=\"text/javascript\"
+        charset=\"utf-8\" src=\"http://blog.sakura.ne.jp/js/bl-bookmarks.js?20150403\"></script>\n<script
+        type=\"text/javascript\" charset=\"utf-8\">\nvar bookmark_services = \"\".split('-').join('').split(\",\");\nvar
+        seesaaBookmarks = new blBookmarks({bookmark_services:bookmark_services, blog_url:\"http://blog.sakura.ne.jp\"});\nseesaaBookmarks.exe();\n</script>\n<!--
+        /Content -->\n\n\n\n\n\n</div>\n\n\n\n<div id=\"footer\">\n<a href=\"http://www.hamaduru.jp/\">料理旅館
+        はまづる</a><br />\n<a href=\"http://www.hamaduru.net/\">能登島の料理旅館はまづる</a><br />\n〒926-0216
+        石川県七尾市能登島曲町14-1<br />\nTEL：0767-84-8026 ／ FAX：0767-84-8028<br />\n</div>\n\n</div>\n\n<!--
+        common footer -->\n</body>\n</html>\n"
+    http_version: 
+  recorded_at: Tue, 19 Feb 2019 01:58:44 GMT
+recorded_with: VCR 4.0.0

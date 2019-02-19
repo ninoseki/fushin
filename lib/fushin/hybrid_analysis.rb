@@ -14,7 +14,12 @@ module Fushin
         url: url
       }
       res = HTTP.headers(default_headers).post(url_for("/quick-scan/url-to-file"), form: payload)
-      res.code == 200 ? JSON.parse(res.body.to_s) : nil
+      if res.code == 200
+        JSON.parse(res.body.to_s)
+      else
+        message = JSON.parse(res.body.to_s).dig("message")
+        raise HAResponseError, message
+      end
     end
 
     def self.quick_url_scan(url)
