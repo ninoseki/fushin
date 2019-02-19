@@ -22,6 +22,8 @@ module Fushin
           out << Posts::Shinobi.new(link)
         when /teacup\.com/
           out << Posts::Teacup.new(link)
+        when /sblo\.jp/
+          out << Posts::Sblo.new(link)
         else
           raise NoMachingPostsError
         end
