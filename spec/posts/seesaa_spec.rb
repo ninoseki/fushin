@@ -54,4 +54,16 @@ RSpec.describe Fushin::Posts::Seesaa, :vcr do
       end
     end
   end
+
+  context "when only having an attachement" do
+    subject { Fushin::Posts::Seesaa.new("http://patent.seesaa.net/article/464227864.html") }
+
+    describe "#attachements" do
+      it "should return an Array" do
+        attachements = subject.attachements
+        expect(attachements).to be_an(Array)
+        expect(attachements.length).to eq(1)
+      end
+    end
+  end
 end
