@@ -47,7 +47,7 @@ module Fushin
       end
 
       def links
-        @links ||= main.css("a").map { |a| a.get("href") }.compact
+        @links ||= main.css("a").map { |a| a.get("href") }.compact.select { |link| link.start_with?("http://", "https://") }
       end
 
       def attachements
