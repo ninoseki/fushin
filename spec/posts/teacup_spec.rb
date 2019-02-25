@@ -38,4 +38,16 @@ RSpec.describe Fushin::Posts::Teacup, :vcr do
       end
     end
   end
+
+  context "when dealing with complex urls" do
+    subject { Fushin::Posts::Teacup.new("https://sea.ap.teacup.com/kbdt/1128.html") }
+
+    describe "#urls" do
+      it "should return an Array" do
+        urls = subject.urls
+        expect(urls).to be_an(Array)
+        expect(urls.length).to eq(1)
+      end
+    end
+  end
 end
